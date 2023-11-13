@@ -1,0 +1,25 @@
+{% extends "base.html" %}
+{% load bootstrap4 %}
+
+{% block content %}
+
+    <div class="container">
+        <div class="row justify-content-center">
+            <div class="col-md-6 text-center">
+                <p class="h4">¿Está seguro de eliminar este {{ objeto }}?</p>
+                <div class="pt-3">
+                    <form method="post">
+                        {% csrf_token %}
+                        <button type="submit" class="btn btn-danger">Eliminar</button>
+                        {% if coleccion %}
+                            <a href="{% url 'detalles-cultivo' coleccion.id %}" class="btn btn-secondary">Cancelar</a>
+                        {% else %}
+                            <a href="{% url 'detalles-cultivo' pk=ccpk %}" class="btn btn-secondary">Cancelar</a>
+                        {% endif %}
+                    </form>
+                </div>
+            </div>
+        </div>
+    </div>
+
+{% endblock %}

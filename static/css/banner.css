@@ -1,0 +1,21 @@
+.banner {
+    background-image: url('/static/img/banner-img.png');
+    background-size: 30%;
+    background-position: bottom right;
+    background-repeat: no-repeat;
+    height: 87vh;
+    padding: 20px;
+}
+
+.banner h1{
+    font-size: 60px;
+}
+
+
+.banner p{
+    font-size: 20px;
+}
+
+.banner a{
+    font-size: 20px;
+}

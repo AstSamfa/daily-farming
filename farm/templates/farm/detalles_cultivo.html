@@ -1,0 +1,99 @@
+{% extends "base.html" %}
+{% load bootstrap4 %}
+{% load static %}
+
+{% block headcontent %}
+     <link rel="stylesheet" href="{% static '/css/farm/icons.css' %}">
+{% endblock %}
+
+
+{% block content %}
+
+    <div class="d-flex justify-content-between align-items-center">
+        <div>
+            <h2>{{ coleccion.cultivo.nombre_cultivo }}</h2>
+        </div>
+        <div class="d-flex">
+            <div class="mr-4">
+                <span>
+                    <img class="icon" src="{% static '/icons/farm/sunny-outline.svg'%}" alt="Temperatura">
+                </span>
+                <span>{{ coleccion.requisito.temperatura }}°</span>
+            </div>
+            <div class="mr-4">
+                <span>
+                    <img class="icon" src="{% static '/icons/farm/drop-half-bottom.svg'%}" alt="Humedad">
+                </span>
+                <span>{{ coleccion.requisito.humedad }}%</span>
+            </div>
+            <div class="mr-4">
+                <span>
+                    <img class="icon" src="{% static '/icons/farm/test-tube.svg'%}" alt="Humedad">
+                </span>
+                <span>{{ coleccion.requisito.ph_suelo }} pH</span>
+            </div>
+            <div class="mr-4">
+                <span>
+                    <img class="icon" src="{% static '/icons/farm/water-outline.svg'%}" alt="Cantidad de Riego">
+                </span>
+                <span>{{ coleccion.requisito.cantidad_riego }} Litros</span>
+            </div>
+        </div>
+
+         <div class="ml-3">
+             <span class="ml-2">
+                <a href="{% url 'actualizar-cultivo' coleccion.id coleccion.cultivo.id %}" class="btn btn-light">
+                    <img class="icon" src="{% static '/icons/farm/pen.svg' %}" alt="Editar Cultivo">
+                </a>
+             </span>
+             <span class="ml-2">
+                 <a href="{% url 'eliminar-cultivo' coleccion.id %}" class="btn btn-light">
+                     <img class="icon" src="{% static '/icons/farm/trash.svg' %}" alt="Eliminar Cultivo">
+                </a>
+             </span>
+
+         </div>
+    </div>
+
+    <div class="mt-3">
+        {% if coleccion.requisito.nota_complementaria %}
+            <p>{{ coleccion.requisito.nota_complementaria }}</p>
+        {% else %}
+            <p class="text-muted">No hay nota complementaria acerca de los requisitos</p>
+        {% endif %}
+    </div>
+
+
+    <div class="mt-2 p-2">
+        {% if coleccion.cuidado.all %}
+            {% for cuidado in coleccion.cuidado.all %}
+                <div class="mt-4">
+                    <div class="bg-light d-flex justify-content-between align-items-center">
+                        <div>
+                            <h4>{{ cuidado.estado_crecimiento }}</h4>
+                        </div>
+                        <div>
+                            <span>
+                                <a href="{% url 'actualizar-cuidado' coleccion.id cuidado.id %}" class="btn btn-light">
+                                    <img class="icon" src="{% static '/icons/farm/pen.svg' %}" alt="Editar Cuidado">
+                                </a>
+                            </span>
+                            <span class="ml-2">
+                                <a href="{% url 'eliminar-cuidado' ccpk=coleccion.id pk=cuidado.id %}" class="btn btn-light">
+                                    <img class="icon" src="{% static '/icons/farm/trash.svg' %}" alt="Eliminar Cuidado">
+                                </a>
+                            </span>
+
+                        </div>
+                    </div>
+                    <p>{{ cuidado.descripcion }}</p>
+                </div>
+            {% endfor %}
+        {% else %}
+            <p class="text-muted">No hay cuidados registrados para este cultivo.</p>
+        {% endif %}
+        <a href="{% url 'crear-cuidado' coleccion.id %}" class="btn btn-success">Añadir nuevo cuidado</a>
+    </div>
+
+
+{% endblock %}

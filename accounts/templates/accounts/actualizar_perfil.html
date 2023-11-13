@@ -1,0 +1,17 @@
+{% extends "base.html" %}
+{% load bootstrap4 %}
+
+{% block content %}
+     <div class="border-bottom pt-2 mb-3">
+        <h2>Editar Perfil</h2>
+    </div>
+    <form method="POST" enctype="multipart/form-data">
+        {% csrf_token %}
+        {% bootstrap_form user_form %}
+        {% bootstrap_form profile_form %}
+        {% buttons %}
+            <button type="submit" class="btn btn-success">Actualizar</button>
+        {% endbuttons %}
+    </form>
+
+{% endblock %}

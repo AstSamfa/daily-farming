@@ -1,0 +1,12 @@
+.about {
+    margin-top: 100px;
+}
+
+ .card {
+    border: 1px solid #e0e0e0;
+    transition: box-shadow 0.3s;
+}
+
+.card:hover {
+    box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.2); /* Agregar sombra en el lado derecho y abajo */
+}

@@ -1,0 +1,84 @@
+{% load bootstrap4 %}
+{% load static %}
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+
+    {% bootstrap_css %}
+    <link rel=stylesheet href="{% static 'css/messages.css'%}">
+    <link rel=stylesheet href="{% static 'css/general.css'%}">
+
+    {% block headcontent%}
+    {% endblock %}
+
+    {% if title %}
+        <title>{{ title }} | Daily Farming</title>
+    {% else %}
+        <title>Daily Farming</title>
+    {% endif %}
+
+</head>
+<body>
+    <header>
+        {% bootstrap_messages %}
+
+        <nav class="navbar navbar-expand-lg navbar-light bg-light mb-5">
+            <a class="navbar-brand" href="{% url 'inicio' %}">
+                <img src="{% static 'img/main-logo.svg' %}" width="30" height="30" class="d-inline-block align-top" alt="">
+                Daily Farming
+            </a>
+            <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarText" aria-controls="navbarText" aria-expanded="false" aria-label="Toggle navigation">
+              <span class="navbar-toggler-icon"></span>
+            </button>
+            <div class="collapse navbar-collapse ml-3" id="navbarText">
+                <ul class="navbar-nav mr-auto">
+                    <li class="nav-item active">
+                        <a class="nav-link" href="{% url 'inicio' %}">
+                            Inicio
+                        </a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="#sobre-nosotros">
+                            Sobre Nosotros
+                        </a>
+                    </li>
+                </ul>
+                <ul class="navbar-nav ml-auto">
+                    {% if user.is_authenticated %}
+                    <li class="nav-item mr-2">
+                        <a class="btn" href="{% url 'perfil' %}">
+                            Perfil
+                        </a>
+                    </li>
+                    <li class="nav-item mr-2">
+                        <a class="btn btn-outline-dark" href="{% url 'logout' %}">
+                            Salir
+                        </a>
+                    </li>
+                    {% else %}
+                    <li class="nav-item mr-2">
+                        <a class="btn" href="{% url 'login' %}">
+                            Iniciar Sesión
+                        </a>
+                    </li>
+                    <li class="nav-item mr-2 ml-3">
+                        <a class="btn btn-secondary" href="{% url 'registrar' %}">
+                            Registrarse
+                        </a>
+                    </li>
+                    {% endif %}
+                </ul>
+            </div>
+        </nav>
+
+        {% block banner %}
+        {% endblock %}
+    </header>
+    <div class="container">
+        {% block content %}
+        {% endblock %}
+    </div>
+    {% bootstrap_javascript jquery='full' %}
+</body>
+</html>

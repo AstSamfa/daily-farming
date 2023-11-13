@@ -1,0 +1,56 @@
+{% extends "base.html" %}
+{% load bootstrap4 %}
+{% load static %}
+
+{% block headcontent %}
+    <link rel="stylesheet" href="{% static 'css/banner.css' %}">
+    <link rel="stylesheet" href="{% static 'css/about.css' %}">
+{% endblock %}
+
+{% block banner %}
+    <section>
+        <div class="row justify-content-center align-items-center banner">
+            <div class="text-center">
+                <h1>Daily Farming</h1>
+                <p>Una herramienta para la agricultura más cercana</p>
+                <a href="{% url 'perfil' %}" class="btn btn-outline-dark">Empezar</a>
+            </div>
+        </div>
+    </section>
+
+    <section id="sobre-nosotros">
+        <div class="container mt-5 mb-5 about">
+            <div class="row">
+                <div class="col-md-6">
+                    <h2>Sobre Nosotros</h2>
+                    <p>
+                        Daily Farming es una aplicación web prototipo que busca proporcionar herramientas para
+                        que las personas se adentren a la agricultura en baja escala. Gracias a las funcionalidades
+                        que se desarrollarán se busca también generar una fuente informativa para que más personas
+                        puedan generar sus propios alimentos como algunos de la canasta básica familiar.
+                    </p>
+                </div>
+                <div class="col-md-6">
+                    <div class="card">
+                        <div class="card-body">
+                            <h3>Gestionar Cultivos</h3>
+                            <p>
+                                Daily Farming provee una manera de organizar la diferente información que
+                                sea requerida para cultivar tus alimentos caseros a través de una interfaz intuitiva
+                            </p>
+                        </div>
+                    </div>
+                    <div class="card mt-3">
+                        <div class="card-body">
+                            <h3>Apoyo al momento de cultivar</h3>
+                            <p>
+                                Podrás tener una referencia para que puedas adentrarte a tener tus propios cultivos
+                                y así encontrar información fundamental para plantearte emprender en el proceso.
+                            </p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+{% endblock %}

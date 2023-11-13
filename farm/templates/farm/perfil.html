@@ -1,0 +1,63 @@
+{% extends "base.html" %}
+{% load bootstrap4 %}
+{% load static %}
+
+{% block headcontent %}
+    <link rel="stylesheet" href="{% static '/css/farm/perfil.css' %}">
+{% endblock %}
+
+{% block content %}
+
+    <div class="container mt-5">
+        <div class="row justify-content-center">
+            <div class="col-md-4 text-center">
+                <div class="profile-image-container">
+                    <img src="{{ user.perfil.img.url }}" alt="Profile Image" class="img-thumbnail rounded-circle">
+                </div>
+                <h2>{{ user.username }}</h2>
+                <a href="{% url 'actualizar_perfil' %}" class="btn btn-outline-secondary">Editar Perfil</a>
+            </div>
+        </div>
+
+        <div class="row mt-4" id="cultivos-container">
+
+            <div class="col-md-4 mb-3">
+                <div class="card">
+                    <div class="card-body">
+                        <h5 class="card-title">Nuevo Cultivo</h5>
+                        <a href="{% url 'crear-cultivo' %}" class="btn btn-success">Añadir</a>
+                    </div>
+                </div>
+            </div>
+            {% if not coleccion %}
+                <div class="col-md-4 mb-3">
+                    <div class="card">
+                        <div class="card-body">
+                            <h5 class="card-title text-muted">
+                                No hay cultivos registrados
+                            </h5>
+                        </div>
+                    </div>
+                </div>
+            {% else %}
+                {% for coleccion_cultivo in coleccion %}
+                    <div class="col-md-4 mb-3">
+                        <div class="card">
+                            <div class="card-body">
+                                <h5><a href="{% url 'detalles-cultivo' coleccion_cultivo.id %}" class="card-title">
+                                    {{ coleccion_cultivo.cultivo.nombre_cultivo }}
+                                </a></h5>
+                                <p>
+                                    <strong>Tipo:</strong> {{ coleccion_cultivo.cultivo.tipo_alimento }}
+                                </p>
+                                <p>
+                                    <strong>Propagación:</strong> {{ coleccion_cultivo.cultivo.tipo_propagacion }}
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                {% endfor %}
+            {% endif %}
+        </div>
+    </div>
+{% endblock %}
