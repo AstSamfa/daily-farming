@@ -1,10 +1,13 @@
 from django.urls import path
-from .views import (ListadoColeccionCultivo, DetallesColeccionCultivo, EliminarColeccionCultivo,
+from .views import (ListadoColeccionesCultivos,
+                    ListadoColeccionCultivo, DetallesColeccionCultivo, EliminarColeccionCultivo,
                     CrearCultivo, ActualizarCultivo,
                     CrearRequisito, ActualizarRequisito,
-                    CrearCuidado, ActualizarCuidado, EliminarCuidado)
+                    CrearCuidado, ActualizarCuidado, EliminarCuidado, )
 
 urlpatterns = [
+    path('', ListadoColeccionesCultivos.as_view(), name='farm-cultivos'),
+
     path('perfil/', ListadoColeccionCultivo.as_view(), name='perfil'),
     path('cultivo/<int:pk>/', DetallesColeccionCultivo.as_view(), name='detalles-cultivo'),
     path('cultivo/eliminar/<int:pk>/', EliminarColeccionCultivo.as_view(), name='eliminar-cultivo'),

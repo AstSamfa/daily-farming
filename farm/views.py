@@ -11,6 +11,13 @@ from .forms import RequisitoForm
 from .models import ColeccionCultivo, Cultivo, Requisito, Cuidado
 
 
+class ListadoColeccionesCultivos(ListView):
+    model = ColeccionCultivo
+    template_name = 'farm/perfil.html'
+    context_object_name = 'coleccion'
+    ordering = ['cultivo__nombre_cultivo']
+
+
 class ListadoColeccionCultivo(LoginRequiredMixin, ListView):
     model = ColeccionCultivo
     template_name = 'farm/perfil.html'
@@ -27,12 +34,8 @@ class DetallesColeccionCultivo(DetailView):
     template_name = 'farm/detalles_cultivo.html'
     context_object_name = 'coleccion'
 
-    def get_queryset(self):
-        user = self.request.user
-        return ColeccionCultivo.objects.filter(usuario=user)
 
-
-class EliminarColeccionCultivo(DeleteView):
+class EliminarColeccionCultivo(LoginRequiredMixin,  UserPassesTestMixin, DeleteView):
     model = ColeccionCultivo
     context_object_name = 'coleccion'
     template_name = 'farm/eliminar_objeto.html'
@@ -49,7 +52,7 @@ class EliminarColeccionCultivo(DeleteView):
         return context
 
 
-class CrearCultivo(CreateView):
+class CrearCultivo(LoginRequiredMixin, CreateView):
     model = Cultivo
     fields = ['nombre_cultivo', 'tipo_alimento', 'tipo_propagacion']
     template_name = 'farm/crear_actualizar_objeto.html'
@@ -77,7 +80,7 @@ class CrearCultivo(CreateView):
         return context
 
 
-class ActualizarCultivo(UpdateView):
+class ActualizarCultivo(LoginRequiredMixin,  UserPassesTestMixin, UpdateView):
     model = Cultivo
     fields = ['nombre_cultivo', 'tipo_alimento', 'tipo_propagacion']
     template_name = 'farm/crear_actualizar_objeto.html'
@@ -99,6 +102,12 @@ class ActualizarCultivo(UpdateView):
 
         return super().form_valid(form)
 
+    def test_func(self):
+        coleccion_id = self.kwargs['ccpk']
+        coleccion_cultivo = ColeccionCultivo.objects.get(id=coleccion_id)
+
+        return coleccion_cultivo.usuario == self.request.user
+
     def get_context_data(self, **kwargs):
         context = super().get_context_data(**kwargs)
 
@@ -109,7 +118,7 @@ class ActualizarCultivo(UpdateView):
         return context
 
 
-class CrearRequisito(CreateView):
+class CrearRequisito(LoginRequiredMixin, CreateView):
     model = Requisito
     form_class = RequisitoForm
     template_name = 'farm/crear_actualizar_objeto.html'
@@ -140,7 +149,7 @@ class CrearRequisito(CreateView):
         return context
 
 
-class ActualizarRequisito(UpdateView):
+class ActualizarRequisito(LoginRequiredMixin,  UserPassesTestMixin, UpdateView):
     model = Requisito
     form_class = RequisitoForm
     template_name = 'farm/crear_actualizar_objeto.html'
@@ -161,8 +170,14 @@ class ActualizarRequisito(UpdateView):
 
         return super().form_valid(form)
 
+    def test_func(self):
+        coleccion_id = self.kwargs['ccpk']
+        coleccion_cultivo = ColeccionCultivo.objects.get(id=coleccion_id)
 
-class CrearCuidado(CreateView):
+        return coleccion_cultivo.usuario == self.request.user
+
+
+class CrearCuidado(LoginRequiredMixin, CreateView):
     model = Cuidado
     fields = ['estado_crecimiento', 'descripcion']
     template_name = 'farm/crear_actualizar_objeto.html'
@@ -192,7 +207,7 @@ class CrearCuidado(CreateView):
         return context
 
 
-class ActualizarCuidado(UpdateView):
+class ActualizarCuidado(LoginRequiredMixin,  UserPassesTestMixin, UpdateView):
     model = Cuidado
     fields = ['estado_crecimiento', 'descripcion']
     template_name = 'farm/crear_actualizar_objeto.html'
@@ -212,6 +227,12 @@ class ActualizarCuidado(UpdateView):
 
         return super().form_valid(form)
 
+    def test_func(self):
+        coleccion_id = self.kwargs['ccpk']
+        coleccion_cultivo = ColeccionCultivo.objects.get(id=coleccion_id)
+
+        return coleccion_cultivo.usuario == self.request.user
+
     def get_context_data(self, **kwargs):
         context = super().get_context_data(**kwargs)
 
@@ -222,7 +243,7 @@ class ActualizarCuidado(UpdateView):
         return context
 
 
-class EliminarCuidado(DeleteView):
+class EliminarCuidado(LoginRequiredMixin,  UserPassesTestMixin, DeleteView):
     model = Cuidado
     template_name = 'farm/eliminar_objeto.html'
 
@@ -239,6 +260,12 @@ class EliminarCuidado(DeleteView):
         coleccion_cultivo.save()
 
         return super().delete(request, *args, **kwargs)
+
+    def test_func(self):
+        coleccion_id = self.kwargs['ccpk']
+        coleccion_cultivo = ColeccionCultivo.objects.get(id=coleccion_id)
+
+        return coleccion_cultivo.usuario == self.request.user
 
     def get_context_data(self, **kwargs):
         context = super().get_context_data(**kwargs)
