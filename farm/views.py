@@ -13,7 +13,7 @@ from .models import ColeccionCultivo, Cultivo, Requisito, Cuidado
 
 class ListadoColeccionesCultivos(ListView):
     model = ColeccionCultivo
-    template_name = 'farm/perfil.html'
+    template_name = 'farm/cultivos.html'
     context_object_name = 'coleccion'
     ordering = ['cultivo__nombre_cultivo']
 

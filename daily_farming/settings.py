@@ -10,8 +10,10 @@ For the full list of settings and their values, see
 https://docs.djangoproject.com/en/4.2/ref/settings/
 """
 import os
-import environ
 from pathlib import Path
+
+# Imprimir el valor de SECRET_KEY para depuración
+print(os.environ.get('SECRET_KEY'))
 
 # Build paths inside the project like this: BASE_DIR / 'subdir'.
 BASE_DIR = Path(__file__).resolve().parent.parent
@@ -19,14 +21,11 @@ BASE_DIR = Path(__file__).resolve().parent.parent
 # Quick-start development settings - unsuitable for production
 # See https://docs.djangoproject.com/en/4.2/howto/deployment/checklist/
 
-env = environ.Env()
-environ.Env.read_env(os.path.join(BASE_DIR, 'daily_farming/.env'))
-
 # SECURITY WARNING: keep the secret key used in production secret!
-SECRET_KEY = env('SECRET_KEY')
+SECRET_KEY = "django-insecure-rz0w**+mt)48q(0#!ry!va2pm7y&6nwx+xgmk*csxgbep!&9q!"
 
 # SECURITY WARNING: don't run with debug turned on in production!
-DEBUG = env('DEBUG_ACTIVE')
+DEBUG = True
 
 
 ALLOWED_HOSTS = []
@@ -81,11 +80,11 @@ WSGI_APPLICATION = 'daily_farming.wsgi.application'
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.postgresql_psycopg2',
-        'NAME': env('DB_NAME'),
-        'USER': env('DB_USER'),
-        'PASSWORD': env('DB_PASSWORD'),
-        'HOST': env('DB_HOST'),
-        'PORT': env('DB_PORT'),
+        'NAME': 'railway',
+        'USER': 'postgres',
+        'PASSWORD': '3fbFEb-4fCfeA6DG5faA1g2aAD*abed-',
+        'HOST': 'viaduct.proxy.rlwy.net',
+        'PORT': '30571',
     }
 }
 
