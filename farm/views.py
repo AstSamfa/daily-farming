@@ -46,6 +46,11 @@ class EliminarColeccionCultivo(LoginRequiredMixin,  UserPassesTestMixin, DeleteV
     def get_success_url(self):
         return reverse('perfil')
 
+    def test_func(self):
+        coleccion = self.get_object()
+
+        return coleccion.usuario == self.request.user
+
     def get_context_data(self, **kwargs):
         context = super().get_context_data(**kwargs)
 
@@ -53,6 +58,8 @@ class EliminarColeccionCultivo(LoginRequiredMixin,  UserPassesTestMixin, DeleteV
         context['objeto'] = 'cultivo'
 
         return context
+
+
 
 
 class CrearCultivo(LoginRequiredMixin, CreateView):
@@ -190,6 +197,15 @@ class ActualizarRequisito(LoginRequiredMixin,  UserPassesTestMixin, UpdateView):
         coleccion_cultivo = ColeccionCultivo.objects.get(id=coleccion_id)
 
         return coleccion_cultivo.usuario == self.request.user
+
+    def get_context_data(self, **kwargs):
+        context = super().get_context_data(**kwargs)
+
+        context['title'] = 'Actualizar Requisito'
+        context['form_title'] = '2. Actualizar requisito del Cultivo'
+        context['btn_label'] = 'Actualizar'
+
+        return context
 
 
 class CrearCuidado(LoginRequiredMixin, CreateView):

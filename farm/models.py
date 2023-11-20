@@ -4,7 +4,7 @@ from django.core.validators import MinValueValidator, MaxValueValidator
 
 
 class Requisito(models.Model):
-    temperatura = models.DecimalField(max_digits=3, decimal_places=1, help_text='Temperatura ideal en grados')
+    temperatura = models.DecimalField(max_digits=3, decimal_places=1, help_text='Temperatura ideal en grados celsius')
     humedad = models.DecimalField(max_digits=3, decimal_places=1, help_text='Valor para el porcentaje de humedad')
     ph_suelo = models.DecimalField(max_digits=3, decimal_places=1, help_text='PH ideal del suelo. Rango: 0 a 14',
                                    validators=[MinValueValidator(0), MaxValueValidator(14)])
