@@ -1,19 +1,17 @@
-from django.contrib.auth.decorators import login_required
-from django.core.exceptions import ObjectDoesNotExist
 from django.contrib.auth.mixins import LoginRequiredMixin, UserPassesTestMixin
-from django.shortcuts import render
+from django.contrib import messages
 from django.urls import reverse
-
 from django.views.generic import (ListView, CreateView,
                                   DetailView, UpdateView, DeleteView)
 
-from .forms import RequisitoForm
+from .forms import RequisitoForm, CultivoForm
 from .models import ColeccionCultivo, Cultivo, Requisito, Cuidado
+from .utils import validar
 
 
 class ListadoColeccionesCultivos(ListView):
     model = ColeccionCultivo
-    template_name = 'farm/perfil.html'
+    template_name = 'farm/colecciones_cultivos.html'
     context_object_name = 'coleccion'
     ordering = ['cultivo__nombre_cultivo']
 
@@ -33,6 +31,11 @@ class DetallesColeccionCultivo(DetailView):
     model = ColeccionCultivo
     template_name = 'farm/detalles_cultivo.html'
     context_object_name = 'coleccion'
+
+    def test_func(self):
+        coleccion = self.get_object()
+
+        return coleccion.usuario == self.request.user
 
 
 class EliminarColeccionCultivo(LoginRequiredMixin,  UserPassesTestMixin, DeleteView):
@@ -54,7 +57,7 @@ class EliminarColeccionCultivo(LoginRequiredMixin,  UserPassesTestMixin, DeleteV
 
 class CrearCultivo(LoginRequiredMixin, CreateView):
     model = Cultivo
-    fields = ['nombre_cultivo', 'tipo_alimento', 'tipo_propagacion']
+    form_class = CultivoForm
     template_name = 'farm/crear_actualizar_objeto.html'
 
     def get_success_url(self):
@@ -67,6 +70,18 @@ class CrearCultivo(LoginRequiredMixin, CreateView):
 
         coleccion_cultivo = ColeccionCultivo(cultivo=nuevo_cultivo, usuario=nuevo_usuario)
         coleccion_cultivo.save()
+
+        departamento = form.cleaned_data['departamento']
+        municipio = form.cleaned_data['municipio']
+        cultivo = nuevo_cultivo.nombre_cultivo.lower()
+
+        resultado_validacion = validar(departamento, municipio, cultivo)
+
+        if resultado_validacion:
+            messages.warning(self.request, f'Según tu zona, la viabilidad del cultivo es: {resultado_validacion}')
+        else:
+            messages.warning(self.request, f'No se ha encontrado datos para el Departamento y Municipio registrados.'
+                                           f' Se sugiere verificar esta información de manera externa.')
 
         return super().form_valid(form)
 

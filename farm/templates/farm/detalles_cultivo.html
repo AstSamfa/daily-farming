@@ -72,19 +72,20 @@
                         <div>
                             <h4>{{ cuidado.estado_crecimiento }}</h4>
                         </div>
-                        <div>
-                            <span>
-                                <a href="{% url 'actualizar-cuidado' coleccion.id cuidado.id %}" class="btn btn-light">
-                                    <img class="icon" src="{% static '/icons/farm/pen.svg' %}" alt="Editar Cuidado">
-                                </a>
-                            </span>
-                            <span class="ml-2">
-                                <a href="{% url 'eliminar-cuidado' ccpk=coleccion.id pk=cuidado.id %}" class="btn btn-light">
-                                    <img class="icon" src="{% static '/icons/farm/trash.svg' %}" alt="Eliminar Cuidado">
-                                </a>
-                            </span>
-
-                        </div>
+                        {% if coleccion.usuario == user %}
+                            <div>
+                                <span>
+                                    <a href="{% url 'actualizar-cuidado' coleccion.id cuidado.id %}" class="btn btn-light">
+                                        <img class="icon" src="{% static '/icons/farm/pen.svg' %}" alt="Editar Cuidado">
+                                    </a>
+                                </span>
+                                <span class="ml-2">
+                                    <a href="{% url 'eliminar-cuidado' ccpk=coleccion.id pk=cuidado.id %}" class="btn btn-light">
+                                        <img class="icon" src="{% static '/icons/farm/trash.svg' %}" alt="Eliminar Cuidado">
+                                    </a>
+                                </span>
+                            </div>
+                        {% endif %}
                     </div>
                     <p>{{ cuidado.descripcion }}</p>
                 </div>

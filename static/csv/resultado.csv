@@ -1,0 +1,1123 @@
+,Departamento,Municipio,aguacate,arroz,cafe,cebollaC,papa
+0,Tolima,Planadas,No apta,No apta,Aptitud alta,"Aptitud alta,Exclusión legal",No apta
+1,Valle del Cauca,Jamundí,No apta,No apta,Aptitud alta,"Aptitud baja,Exclusión legal",Exclusión legal
+2,Boyacá,El Espino,No apta,No apta,"No apta,Aptitud baja",Aptitud alta,No apta
+3,Nariño,El Tablón,No apta,Exclusión legal,Aptitud alta,No apta,No apta
+4,Nariño,Samaniego,No apta,No apta,Aptitud alta,No apta,No apta
+5,Nariño,La Cruz,Exclusión legal,Exclusión legal,Aptitud alta,No apta,No apta
+6,Nariño,San Pablo,No apta,Exclusión legal,Aptitud alta,"Exclusión legal,Aptitud media","Exclusión legal,Aptitud media"
+7,Bolívar,San Pablo,Exclusión legal,Aptitud baja,Exclusión legal,Aptitud baja,Exclusión legal
+8,Huila,Pital,"Aptitud media,Aptitud baja",Aptitud baja,Aptitud alta,No apta,Exclusión legal
+9,Cauca,Puracé (Coconuco),"Aptitud baja,Aptitud media",Exclusión legal,Aptitud alta,Exclusión legal,No apta
+10,Cauca,Popayán,No apta,Exclusión legal,No apta,No apta,No apta
+11,Cauca,Silvia,Aptitud media,Exclusión legal,Aptitud alta,No apta,"Exclusión legal,Aptitud alta"
+12,Cauca,Páez (Belalcázar),No apta,No apta,Aptitud alta,No apta,No apta
+13,Cauca,Corinto,"No apta,Exclusión legal",No apta,Aptitud alta,No apta,Exclusión legal
+14,Huila,Neiva,"Exclusión legal,Aptitud media",No apta,No apta,No apta,No apta
+15,Tolima,Rioblanco,Exclusión legal,Exclusión legal,No apta,No apta,Exclusión legal
+16,Huila,Colombia,No apta,Aptitud baja,Aptitud alta,No apta,Aptitud baja
+17,Tolima,Rovira,Aptitud media,"Aptitud media,No apta",Aptitud alta,"Aptitud alta,Exclusión legal","No apta,Exclusión legal"
+18,Quindío,Calarcá,No apta,No apta,No apta,No apta,Exclusión legal
+19,Tolima,Cajamarca,Exclusión legal,Exclusión legal,Exclusión legal,Exclusión legal,No apta
+20,Amazonas,Leticia,No apta,Aptitud baja,No apta,Aptitud media,No apta
+21,Guaviare,San José del Guaviare,Exclusión legal,Aptitud baja,Exclusión legal,Aptitud media,Exclusión legal
+22,Meta,Puerto Rico,Exclusión legal,No apta,No apta,No apta,Exclusión legal
+23,Caquetá,Puerto Rico,Exclusión legal,Aptitud baja,No apta,No apta,Exclusión legal
+24,Meta,Vistahermosa,No apta,No apta,No apta,No apta,No apta
+25,Guainía,Mapiripana,No apta,"No apta,Aptitud baja","No apta,Exclusión legal","Exclusión legal,Aptitud media",No apta
+26,Meta,Puerto López,No apta,No apta,Exclusión legal,No apta,No apta
+27,Chocó,Alto Baudó (Pie de Pato),Exclusión legal,Exclusión legal,Exclusión legal,Exclusión legal,Exclusión legal
+28,Risaralda,Santa Rosa de Cabal,No apta,No apta,No apta,No apta,No apta
+29,Risaralda,Santuario,No apta,No apta,No apta,"Aptitud alta,Exclusión legal",Exclusión legal
+30,Antioquia,Santuario,No apta,No apta,No apta,"Aptitud media,Exclusión legal",No apta
+31,Caldas,Salamina,Exclusión legal,Exclusión legal,No apta,Exclusión legal,No apta
+32,Magdalena,Salamina,Exclusión legal,Exclusión legal,Exclusión legal,Exclusión legal,Exclusión legal
+33,Caldas,Aguadas,Exclusión legal,"Aptitud baja,Aptitud alta",No apta,"Aptitud alta,Aptitud baja",Exclusión legal
+34,Caldas,Samaná,Exclusión legal,Exclusión legal,Aptitud alta,Exclusión legal,Exclusión legal
+35,Antioquia,Retiro,No apta,Exclusión legal,"Aptitud baja,Aptitud media","Aptitud media,Aptitud alta",No apta
+36,Antioquia,Rionegro,No apta,Exclusión legal,No apta,"Aptitud alta,Exclusión legal",Aptitud media
+37,Santander,Rionegro,"Aptitud baja,No apta","No apta,Aptitud media",Aptitud alta,No apta,Exclusión legal
+38,Antioquia,Betulia,No apta,"No apta,Aptitud alta",No apta,No apta,Aptitud media
+39,Santander,Betulia,Exclusión legal,Aptitud media,Aptitud alta,Aptitud media,Exclusión legal
+40,Antioquia,Caicedo,"Aptitud alta,Exclusión legal",No apta,No apta,No apta,No apta
+41,Antioquia,Belmira,"Aptitud baja,Aptitud alta",No apta,Exclusión legal,Aptitud media,Aptitud media
+42,Antioquia,Liborina,Aptitud media,"Aptitud media,No apta",Aptitud alta,"No apta,Aptitud baja",Aptitud baja
+43,Antioquia,Turbo,No apta,No apta,No apta,No apta,No apta
+44,Cundinamarca,Sesquilé,Aptitud media,Exclusión legal,Exclusión legal,No apta,No apta
+45,Cundinamarca,Tibirita,"Aptitud alta,Aptitud media",Exclusión legal,Aptitud alta,No apta,Aptitud media
+46,Cundinamarca,Cogua,"Aptitud alta,Aptitud media",Exclusión legal,Exclusión legal,"Aptitud baja,Aptitud alta",No apta
+47,Boyacá,Úmbita,Aptitud alta,Exclusión legal,Aptitud alta,No apta,No apta
+48,Cundinamarca,Susa,No apta,No apta,Exclusión legal,No apta,No apta
+49,Boyacá,Motavita,Exclusión legal,Exclusión legal,Exclusión legal,Aptitud media,"Aptitud alta,Aptitud media"
+50,Boyacá,Chíquiza,Exclusión legal,Exclusión legal,Exclusión legal,Aptitud media,No apta
+51,Boyacá,Villa de Leiva,"Aptitud media,Aptitud alta",No apta,No apta,No apta,No apta
+52,Boyacá,Arcabuco,No apta,No apta,"Exclusión legal,No apta",No apta,No apta
+53,Boyacá,Paz de Río,"Exclusión legal,Aptitud media",Exclusión legal,Exclusión legal,No apta,No apta
+54,Santander,Suaita,No apta,Exclusión legal,Aptitud alta,"No apta,Aptitud media",Exclusión legal
+55,Santander,La Paz,No apta,Exclusión legal,No apta,Aptitud media,Exclusión legal
+56,Cesar,La Paz,Aptitud alta,Aptitud alta,Aptitud alta,Aptitud media,No apta
+57,Santander,Charalá,No apta,Exclusión legal,Aptitud alta,No apta,Exclusión legal
+58,Boyacá,Tipacoque,"Exclusión legal,No apta",Exclusión legal,Aptitud baja,"Aptitud media,Aptitud baja","No apta,Aptitud alta"
+59,Santander,Onzaga,Aptitud baja,Exclusión legal,Aptitud alta,No apta,No apta
+60,Santander,El Carmen,No apta,No apta,Aptitud alta,No apta,No apta
+61,Chocó,El Carmen,No apta,No apta,No apta,No apta,No apta
+62,Norte de Santander,El Carmen,No apta,No apta,Aptitud alta,No apta,No apta
+63,Santander,Floridablanca,"Exclusión legal,Aptitud alta",No apta,No apta,"Aptitud media,No apta",Exclusión legal
+64,Norte de Santander,Labateca,No apta,Exclusión legal,Aptitud alta,No apta,No apta
+65,Cesar,San Martín,"Exclusión legal,No apta",No apta,No apta,No apta,"No apta,Exclusión legal"
+66,Meta,San Martín,Exclusión legal,Aptitud baja,Exclusión legal,Aptitud baja,Exclusión legal
+67,Norte de Santander,Ábrego,Aptitud media,Exclusión legal,Aptitud alta,Aptitud media,No apta
+68,Cesar,Pueblo Bello,"Exclusión legal,Aptitud alta",No apta,Aptitud alta,No apta,No apta
+69,La Guajira,San Juan del Cesar,No apta,No apta,No apta,No apta,No apta
+70,La Guajira,Riohacha,No apta,Exclusión legal,No apta,Aptitud alta,No apta
+71,Caquetá,Morelia,"No apta,Exclusión legal",Aptitud media,Aptitud baja,No apta,"No apta,Exclusión legal"
+72,Meta,Lejanías,Exclusión legal,No apta,Aptitud alta,No apta,Exclusión legal
+73,Meta,Mesetas,No apta,No apta,No apta,No apta,No apta
+74,Meta,Guamal,No apta,No apta,No apta,No apta,No apta
+75,Magdalena,Guamal,Exclusión legal,No apta,Exclusión legal,"Aptitud media,Aptitud alta",Exclusión legal
+76,Meta,San Juanito,Aptitud alta,"No apta,Exclusión legal",No apta,Aptitud alta,"No apta,Exclusión legal"
+77,Valle del Cauca,Cartago,Exclusión legal,No apta,No apta,No apta,Exclusión legal
+78,Tolima,Murillo,Aptitud media,Exclusión legal,Aptitud alta,Aptitud baja,No apta
+79,Tolima,Villahermosa,No apta,Exclusión legal,Aptitud alta,Aptitud baja,No apta
+80,Antioquia,Sonsón,No apta,Exclusión legal,Aptitud alta,No apta,No apta
+81,Antioquia,Abejorral,No apta,Exclusión legal,Aptitud alta,"Aptitud baja,Exclusión legal",No apta
+82,Caldas,Pensilvania,No apta,No apta,No apta,No apta,No apta
+83,Antioquia,San Francisco,No apta,"Aptitud media,Aptitud baja",Aptitud alta,No apta,No apta
+84,Cundinamarca,San Francisco,"Aptitud baja,Exclusión legal",Exclusión legal,Aptitud alta,Aptitud media,Aptitud alta
+85,Putumayo,San Francisco,"Aptitud media,No apta",Exclusión legal,Aptitud baja,No apta,"Aptitud media,Exclusión legal"
+86,Antioquia,Carmen de Viboral,No apta,No apta,No apta,No apta,No apta
+87,Córdoba,Montería,Exclusión legal,Exclusión legal,Exclusión legal,No apta,Exclusión legal
+88,Sucre,Sincelejo,Exclusión legal,Exclusión legal,Exclusión legal,No apta,Exclusión legal
+89,Cundinamarca,Junín,No apta,Exclusión legal,Exclusión legal,No apta,No apta
+90,Cundinamarca,Pacho,No apta,Exclusión legal,Aptitud alta,No apta,No apta
+91,Boyacá,Tibaná,No apta,"No apta,Exclusión legal",No apta,No apta,No apta
+92,Boyacá,Toca,No apta,Exclusión legal,Exclusión legal,No apta,"Aptitud media,Exclusión legal"
+93,Boyacá,Tota,No apta,No apta,"No apta,Exclusión legal",No apta,No apta
+94,Boyacá,Tasco,No apta,Exclusión legal,Exclusión legal,No apta,No apta
+95,Santander,Bolívar,"Aptitud alta,Exclusión legal",No apta,No apta,No apta,No apta
+96,Cauca,Bolívar,No apta,Exclusión legal,Aptitud alta,No apta,No apta
+97,Valle del Cauca,Bolívar,"Aptitud media,Aptitud baja",No apta,Aptitud media,No apta,No apta
+98,Norte de Santander,Chitagá,No apta,Exclusión legal,Aptitud alta,No apta,No apta
+99,Norte de Santander,Arboledas,No apta,No apta,Aptitud alta,No apta,"Aptitud media,Exclusión legal"
+100,Norte de Santander,Cáchira,Aptitud media,Exclusión legal,Aptitud alta,Aptitud baja,"Aptitud baja,Aptitud media"
+101,Bolívar,Rioviejo,Exclusión legal,Aptitud baja,Exclusión legal,Aptitud baja,Exclusión legal
+102,Bolívar,Hatillo de Loba,Exclusión legal,Aptitud baja,Exclusión legal,Exclusión legal,Exclusión legal
+103,Cesar,Curumaní,No apta,No apta,Aptitud alta,No apta,No apta
+104,Norte de Santander,Toledo,No apta,No apta,Aptitud alta,No apta,"Aptitud alta,Aptitud baja"
+105,Antioquia,Toledo,No apta,Aptitud baja,No apta,"Aptitud alta,Exclusión legal",Exclusión legal
+106,Vichada,Cumaribo,No apta,Aptitud baja,Exclusión legal,Aptitud baja,No apta
+107,Magdalena,Santa Marta,No apta,No apta,Aptitud alta,No apta,No apta
+108,Putumayo,Santiago,No apta,Exclusión legal,No apta,No apta,No apta
+109,Norte de Santander,Santiago,"Aptitud baja,Exclusión legal",Exclusión legal,No apta,No apta,Exclusión legal
+110,Putumayo,Sibundoy,No apta,"No apta,Exclusión legal",Exclusión legal,No apta,No apta
+111,Nariño,Mallama (Piedrancha),No apta,No apta,"Exclusión legal,Aptitud baja","Aptitud alta,Exclusión legal","Aptitud media,Aptitud alta,Exclusión legal"
+112,Nariño,Albán (San José),"Aptitud media,No apta",Exclusión legal,Aptitud alta,No apta,"Aptitud media,No apta"
+113,Atlántico,Sabanagrande,Exclusión legal,Exclusión legal,No apta,"Aptitud baja,Aptitud media",Exclusión legal
+114,Magdalena,Aracataca,"No apta,Exclusión legal",Exclusión legal,Aptitud alta,"Aptitud baja,Aptitud media",Exclusión legal
+115,Atlántico,Juan de Acosta,No apta,Exclusión legal,No apta,No apta,No apta
+116,Atlántico,Malambo,Exclusión legal,Exclusión legal,No apta,No apta,Exclusión legal
+117,Atlántico,Tubará,No apta,Exclusión legal,Exclusión legal,No apta,No apta
+118,Magdalena,Puebloviejo,Exclusión legal,Exclusión legal,Exclusión legal,"Aptitud media,Aptitud alta",Exclusión legal
+119,Nariño,Córdoba,"Exclusión legal,Aptitud media",Exclusión legal,No apta,Aptitud media,No apta
+120,Quindío,Córdoba,No apta,No apta,No apta,No apta,No apta
+121,Bolívar,Córdoba,Exclusión legal,Exclusión legal,No apta,Aptitud media,Exclusión legal
+122,Nariño,Funes,Aptitud alta,Exclusión legal,Aptitud alta,No apta,Aptitud alta
+123,Nariño,Pasto,No apta,Exclusión legal,Exclusión legal,No apta,No apta
+124,Nariño,Buesaco,"Exclusión legal,Aptitud baja",No apta,Aptitud alta,No apta,"Aptitud media,Aptitud alta"
+125,Nariño,La Florida,"Aptitud alta,Aptitud media,No apta",Exclusión legal,Aptitud alta,Aptitud media,"Exclusión legal,No apta"
+126,Nariño,Santa Cruz (Guachavés),"Aptitud media,Aptitud alta",No apta,No apta,No apta,No apta
+127,Putumayo,Mocoa,Exclusión legal,"No apta,Exclusión legal",No apta,Exclusión legal,Exclusión legal
+128,Nariño,Arboleda (Berruecos),No apta,Exclusión legal,Aptitud alta,No apta,"Aptitud media,No apta"
+129,Nariño,El Tambo,Aptitud media,No apta,Aptitud alta,No apta,"Aptitud alta,Aptitud media"
+130,Cauca,El Tambo,Exclusión legal,Exclusión legal,Aptitud alta,"Aptitud baja,Aptitud alta",Exclusión legal
+131,Nariño,San Bernardo,Exclusión legal,Exclusión legal,Aptitud alta,No apta,No apta
+132,Cundinamarca,San Bernardo,"Aptitud media,Aptitud alta",Exclusión legal,No apta,Aptitud alta,No apta
+133,Nariño,San Lorenzo,No apta,No apta,Aptitud alta,No apta,Aptitud media
+134,Atlántico,Barranquilla,No apta,No apta,No apta,No apta,No apta
+135,Nariño,San Pedro de Cartago (Cartago),No apta,No apta,"Aptitud baja,Exclusión legal",No apta,No apta
+136,Nariño,Belén,"Aptitud baja,Exclusión legal",Exclusión legal,Aptitud alta,No apta,Aptitud media
+137,Boyacá,Belén,No apta,Exclusión legal,Exclusión legal,No apta,No apta
+138,Nariño,Colón (Génova),"Aptitud baja,Aptitud alta",Exclusión legal,"Aptitud baja,Exclusión legal",Aptitud alta,"No apta,Exclusión legal"
+139,Cauca,La Vega,"Aptitud media,Aptitud baja",Exclusión legal,Aptitud alta,No apta,No apta
+140,Cundinamarca,La Vega,No apta,"Aptitud media,Exclusión legal",No apta,No apta,"Aptitud alta,Exclusión legal"
+141,Caquetá,Florencia,Exclusión legal,Aptitud alta,Aptitud alta,"Aptitud media,No apta",Exclusión legal
+142,Cauca,Florencia,No apta,"Aptitud baja,Exclusión legal,No apta",Aptitud alta,"Aptitud baja,Exclusión legal","Aptitud media,Exclusión legal,No apta"
+143,Cauca,Balboa,"Aptitud media,Aptitud baja","Exclusión legal,Aptitud media,Aptitud alta",No apta,No apta,Aptitud media
+144,Risaralda,Balboa,Exclusión legal,"Exclusión legal,No apta",Aptitud alta,"Aptitud media,Aptitud alta",Exclusión legal
+145,Huila,Tarqui,No apta,"No apta,Aptitud alta,Aptitud media",Aptitud alta,Aptitud media,Exclusión legal
+146,Huila,Palestina,No apta,No apta,Aptitud alta,No apta,No apta
+147,Caldas,Palestina,"Aptitud media,Aptitud alta",No apta,No apta,No apta,Exclusión legal
+148,Nariño,Policarpa,Exclusión legal,Exclusión legal,Aptitud alta,Exclusión legal,Exclusión legal
+149,Huila,Pitalito,Aptitud baja,No apta,Aptitud alta,"Aptitud alta,Exclusión legal",Exclusión legal
+150,Cauca,Almaguer,Exclusión legal,Exclusión legal,Aptitud alta,No apta,"Aptitud media,No apta"
+151,Huila,Paicol,No apta,Aptitud baja,Aptitud alta,Aptitud alta,Exclusión legal
+152,Huila,La Plata,No apta,"Aptitud media,Exclusión legal",Aptitud alta,No apta,Aptitud media
+153,Cauca,Argelia,No apta,No apta,No apta,No apta,No apta
+154,Antioquia,Argelia,Exclusión legal,Exclusión legal,Aptitud alta,Exclusión legal,Exclusión legal
+155,Valle del Cauca,Argelia,No apta,No apta,No apta,"Aptitud baja,Aptitud alta",No apta
+156,Cauca,Inzá,No apta,No apta,Aptitud alta,No apta,No apta
+157,Nariño,El Rosario,Exclusión legal,Exclusión legal,Aptitud alta,Exclusión legal,Exclusión legal
+158,Huila,Suaza,"No apta,Aptitud media","No apta,Aptitud alta",Aptitud alta,No apta,Exclusión legal
+159,Nariño,Tumaco,No apta,No apta,Exclusión legal,No apta,No apta
+160,Nariño,Magüí (Payán),Exclusión legal,Aptitud baja,Exclusión legal,Exclusión legal,Exclusión legal
+161,Cauca,La Sierra,Aptitud media,Aptitud baja,"No apta,Aptitud media",No apta,"No apta,Exclusión legal"
+162,Huila,Isnos,"Aptitud baja,Exclusión legal",Exclusión legal,Aptitud alta,"Aptitud media,Aptitud baja","No apta,Aptitud baja"
+163,Boyacá,Campohermoso,Aptitud baja,Exclusión legal,Aptitud alta,Aptitud baja,Exclusión legal
+164,Cauca,Rosas,No apta,"No apta,Exclusión legal",Aptitud alta,No apta,"No apta,Exclusión legal"
+165,Cundinamarca,Girardot,No apta,No apta,No apta,"Aptitud baja,Exclusión legal",No apta
+166,Amazonas,Puerto Nariño,No apta,Aptitud baja,Exclusión legal,Aptitud media,No apta
+167,Huila,Garzón,No apta,No apta,Aptitud alta,No apta,No apta
+168,Cauca,Patía (El Bordo),Exclusión legal,Exclusión legal,No apta,"No apta,Aptitud alta",Exclusión legal
+169,Cauca,Sotará (Paispamba),Aptitud media,Exclusión legal,Aptitud media,"Aptitud media,Aptitud alta",No apta
+170,Cauca,Timbío,No apta,No apta,Aptitud alta,No apta,Exclusión legal
+171,Huila,Algeciras,No apta,No apta,Aptitud alta,No apta,No apta
+172,Cauca,Cajibío,Aptitud alta,Exclusión legal,Aptitud alta,No apta,Exclusión legal
+173,Vaupés,Pacoa (Corr. Departamental),Exclusión legal,Exclusión legal,Exclusión legal,Exclusión legal,Exclusión legal
+174,Chocó,Quibdó,Exclusión legal,Exclusión legal,Exclusión legal,Exclusión legal,Exclusión legal
+175,Guainía,Morichal (Morichal Nuevo),Exclusión legal,Exclusión legal,Exclusión legal,"No apta,Aptitud media",Exclusión legal
+176,Guainía,Inírida,No apta,Aptitud baja,Exclusión legal,Exclusión legal,No apta
+177,Meta,Villavicencio,Exclusión legal,No apta,No apta,No apta,Exclusión legal
+178,Boyacá,La Capilla,"Aptitud alta,Exclusión legal",Exclusión legal,Aptitud alta,No apta,Aptitud media
+179,Boyacá,Garagoa,"Aptitud alta,Exclusión legal",Exclusión legal,Aptitud alta,"Aptitud baja,Exclusión legal",Aptitud media
+180,Cauca,Morales,No apta,Exclusión legal,Aptitud alta,No apta,Exclusión legal
+181,Bolívar,Morales,Exclusión legal,Exclusión legal,"Aptitud baja,Exclusión legal","Aptitud media,Aptitud alta",Exclusión legal
+182,Cauca,Piendamó,No apta,No apta,No apta,Aptitud media,No apta
+183,Cauca,Caldono,"Aptitud baja,Exclusión legal","Aptitud baja,No apta",Aptitud alta,Aptitud alta,Aptitud baja
+184,Caldas,Manizales,No apta,Exclusión legal,No apta,No apta,Exclusión legal
+185,Risaralda,Belén de Umbría,"Aptitud media,Aptitud alta","Aptitud baja,Aptitud alta,No apta",No apta,No apta,Exclusión legal
+186,Caldas,Neira,Exclusión legal,Exclusión legal,No apta,Exclusión legal,Exclusión legal
+187,Boyacá,Miraflores,No apta,Exclusión legal,Aptitud alta,"Aptitud baja,Aptitud media",Aptitud media
+188,Guaviare,Miraflores,No apta,No apta,No apta,No apta,No apta
+189,Antioquia,Medellín,No apta,No apta,No apta,No apta,"Aptitud media,Aptitud alta"
+190,Antioquia,Ebéjico,"Aptitud baja,Exclusión legal","No apta,Aptitud alta",Aptitud alta,"Aptitud media,No apta",Exclusión legal
+191,Antioquia,Bello,No apta,Exclusión legal,No apta,No apta,Aptitud media
+192,Antioquia,Barbosa,No apta,No apta,No apta,No apta,No apta
+193,Santander,Barbosa,No apta,Exclusión legal,No apta,"Aptitud media,Aptitud alta,Aptitud baja,Exclusión legal",Exclusión legal
+194,Antioquia,San Pedro,No apta,No apta,Exclusión legal,Aptitud alta,Aptitud alta
+195,Valle del Cauca,San Pedro,"Aptitud media,Aptitud alta",No apta,No apta,Aptitud alta,Exclusión legal
+196,Sucre,San Pedro,Exclusión legal,Exclusión legal,Exclusión legal,Aptitud baja,Exclusión legal
+197,Cauca,Jambaló,Aptitud alta,Exclusión legal,Aptitud alta,No apta,No apta
+198,Bolívar,Cartagena de Indias,No apta,No apta,No apta,No apta,No apta
+199,Bolívar,Santa Catalina,No apta,Exclusión legal,No apta,No apta,No apta
+200,Atlántico,Soledad,No apta,No apta,No apta,Aptitud media,No apta
+201,Cundinamarca,Guasca,"Aptitud baja,Aptitud media",Exclusión legal,No apta,No apta,No apta
+202,Cundinamarca,Gachetá,No apta,Exclusión legal,Exclusión legal,No apta,No apta
+203,Boyacá,Guayatá,Aptitud media,Exclusión legal,Aptitud alta,Aptitud media,Aptitud alta
+204,Cundinamarca,Manta,No apta,Exclusión legal,Aptitud alta,No apta,No apta
+205,Boyacá,Tenza,No apta,No apta,Aptitud alta,"Aptitud media,Aptitud alta","Aptitud media,No apta"
+206,Cundinamarca,Machetá,No apta,No apta,Aptitud alta,No apta,No apta
+207,Cundinamarca,Nemocón,"Aptitud media,No apta",Exclusión legal,Exclusión legal,"No apta,Aptitud media",Aptitud media
+208,Cundinamarca,Tausa,No apta,No apta,Exclusión legal,No apta,No apta
+209,Boyacá,San Eduardo,"Aptitud baja,Exclusión legal",Exclusión legal,Aptitud alta,Aptitud baja,"No apta,Exclusión legal"
+210,Nariño,Guaitarilla,"Aptitud media,Exclusión legal",Exclusión legal,Aptitud alta,No apta,"Aptitud alta,Exclusión legal"
+211,Boyacá,Nuevo Colón,"Aptitud media,Exclusión legal","Exclusión legal,No apta","Aptitud baja,Exclusión legal",Aptitud media,Aptitud media
+212,Huila,Palermo,"Aptitud alta,No apta",Aptitud baja,Aptitud alta,Aptitud media,Exclusión legal
+213,Santander,Gámbita,No apta,Exclusión legal,No apta,Aptitud media,"No apta,Exclusión legal"
+214,Santander,Sucre,No apta,"No apta,Exclusión legal",No apta,No apta,No apta
+215,Cauca,Sucre,Aptitud media,Aptitud media,Aptitud alta,"Aptitud media,No apta","Aptitud baja,No apta"
+216,Sucre,Sucre,Exclusión legal,Aptitud alta,Exclusión legal,Aptitud baja,Exclusión legal
+217,Santander,Encino,Aptitud media,Exclusión legal,Aptitud alta,Aptitud media,"Aptitud media,Aptitud alta"
+218,Santander,El Guacamayo,No apta,Exclusión legal,No apta,Aptitud media,Exclusión legal
+219,Santander,Coromoro,Aptitud media,Exclusión legal,Aptitud alta,Aptitud media,Aptitud media
+220,Cundinamarca,San Cayetano,Aptitud alta,Exclusión legal,No apta,"Aptitud baja,Exclusión legal",No apta
+221,Norte de Santander,San Cayetano,Exclusión legal,Exclusión legal,Aptitud alta,"No apta,Aptitud media",Exclusión legal
+222,Huila,Baraya,Aptitud media,"No apta,Exclusión legal",Aptitud alta,No apta,"No apta,Exclusión legal"
+223,Santander,Enciso,"Exclusión legal,Aptitud baja",Exclusión legal,"Aptitud media,Aptitud alta",Aptitud alta,"Aptitud media,Aptitud baja"
+224,Santander,Molagavita,Aptitud media,Exclusión legal,"Aptitud media,Exclusión legal","Aptitud baja,Exclusión legal",No apta
+225,Santander,Galán,"Aptitud media,Aptitud alta",Exclusión legal,Aptitud alta,Aptitud media,Exclusión legal
+226,Santander,Bucaramanga,No apta,No apta,Aptitud alta,No apta,No apta
+227,Valle del Cauca,Restrepo,No apta,Exclusión legal,No apta,Exclusión legal,Exclusión legal
+228,Meta,Restrepo,Exclusión legal,Aptitud alta,"Aptitud alta,Aptitud baja",No apta,Exclusión legal
+229,Valle del Cauca,Buga,Aptitud media,No apta,No apta,No apta,No apta
+230,La Guajira,Barrancas,No apta,"Exclusión legal,No apta",Aptitud alta,Aptitud media,No apta
+231,La Guajira,Dibulla,No apta,No apta,No apta,No apta,No apta
+232,La Guajira,Albania,No apta,No apta,No apta,No apta,No apta
+233,Santander,Albania,No apta,Exclusión legal,No apta,"No apta,Aptitud alta",Aptitud alta
+234,Caquetá,Albania,Exclusión legal,No apta,Exclusión legal,No apta,Exclusión legal
+235,La Guajira,Maicao,No apta,No apta,No apta,No apta,No apta
+236,La Guajira,Manaure,No apta,Exclusión legal,Exclusión legal,"No apta,Aptitud baja",No apta
+237,Amazonas,Puerto Alegría,No apta,"Aptitud baja,Aptitud media",Exclusión legal,"No apta,Aptitud baja,Aptitud media,Exclusión legal",No apta
+238,Cundinamarca,Cabrera,Aptitud media,Exclusión legal,No apta,"Exclusión legal,Aptitud alta","Aptitud baja,Exclusión legal"
+239,Santander,Cabrera,"Exclusión legal,No apta","Exclusión legal,No apta",Aptitud alta,Aptitud media,"No apta,Exclusión legal"
+240,Tolima,Chaparral,Exclusión legal,Exclusión legal,Aptitud alta,Aptitud media,Exclusión legal
+241,Cundinamarca,Pasca,No apta,"No apta,Exclusión legal",No apta,No apta,"Aptitud media,Exclusión legal"
+242,Valle del Cauca,Sevilla,Aptitud alta,No apta,No apta,No apta,No apta
+243,Cundinamarca,Une,"Aptitud alta,Exclusión legal",Exclusión legal,"Aptitud media,Aptitud baja","Aptitud media,No apta",No apta
+244,Chocó,Rio Quito (Paimadó),Exclusión legal,No apta,Exclusión legal,Exclusión legal,Exclusión legal
+245,Chocó,Bahía Solano (Mutis),No apta,Aptitud baja,Exclusión legal,Exclusión legal,No apta
+246,Risaralda,Pereira,Exclusión legal,Exclusión legal,No apta,No apta,Exclusión legal
+247,Putumayo,Valle del Guamuez (La Hormiga),No apta,No apta,Exclusión legal,No apta,No apta
+248,Putumayo,Puerto Asís,No apta,Aptitud media,Exclusión legal,Aptitud media,No apta
+249,Putumayo,Puerto Leguízamo,No apta,Aptitud baja,No apta,Aptitud baja,No apta
+250,Nariño,Ipiales,No apta,No apta,Exclusión legal,No apta,No apta
+251,Boyacá,Ramiriquí,No apta,"Exclusión legal,No apta","Exclusión legal,No apta",No apta,No apta
+252,Risaralda,Dosquebradas,No apta,Exclusión legal,No apta,No apta,Exclusión legal
+253,Nariño,Contadero,"Aptitud media,Exclusión legal,Aptitud alta",Exclusión legal,No apta,"Aptitud baja,Exclusión legal",No apta
+254,Putumayo,Puerto Guzmán,Exclusión legal,Aptitud baja,Exclusión legal,Aptitud baja,Exclusión legal
+255,Nariño,Cumbal,No apta,No apta,No apta,No apta,No apta
+256,Putumayo,Colón,Exclusión legal,Exclusión legal,Exclusión legal,"Aptitud media,Aptitud alta",Exclusión legal
+257,Santander,Guaca,Aptitud media,Exclusión legal,Aptitud alta,Aptitud media,No apta
+258,Risaralda,La Celia,"Aptitud media,Exclusión legal","Aptitud alta,No apta",No apta,"Aptitud alta,Exclusión legal",Exclusión legal
+259,Nariño,La Llanada,"Aptitud baja,Exclusión legal",No apta,Aptitud alta,Aptitud baja,"Aptitud media,Aptitud baja"
+260,Nariño,La Unión,"Aptitud baja,Exclusión legal","Aptitud baja,Aptitud media",Aptitud alta,Aptitud media,"Aptitud alta,Aptitud media"
+261,Antioquia,La Unión,No apta,Exclusión legal,"Aptitud baja,Exclusión legal","Aptitud media,Exclusión legal",No apta
+262,Valle del Cauca,La Unión,Exclusión legal,Exclusión legal,"Aptitud baja,Exclusión legal",Aptitud alta,Exclusión legal
+263,Sucre,La Unión,Exclusión legal,No apta,Exclusión legal,No apta,Exclusión legal
+264,Cauca,San Sebastián,Exclusión legal,Exclusión legal,Aptitud alta,No apta,No apta
+265,Magdalena,Remolino,No apta,No apta,Exclusión legal,No apta,No apta
+266,Nariño,Barbacoas,No apta,No apta,No apta,No apta,No apta
+267,Nariño,Los Andes (Sotomayor),"No apta,Aptitud baja","Aptitud baja,No apta",Aptitud alta,"Aptitud baja,Aptitud alta","Aptitud media,Exclusión legal"
+268,Risaralda,Marsella,Aptitud alta,Exclusión legal,No apta,No apta,Exclusión legal
+269,Caldas,Aranzazu,No apta,Exclusión legal,"Aptitud baja,Aptitud media",Exclusión legal,Exclusión legal
+270,Risaralda,Guática,No apta,Exclusión legal,No apta,No apta,Exclusión legal
+271,Cauca,Santa Rosa,No apta,"Aptitud alta,Aptitud media",No apta,No apta,No apta
+272,Bolívar,Santa Rosa,Exclusión legal,Exclusión legal,No apta,No apta,Exclusión legal
+273,Cauca,Mercaderes,"No apta,Aptitud baja",Aptitud baja,Aptitud alta,"Aptitud baja,Exclusión legal",Exclusión legal
+274,Boyacá,Aquitania,"Exclusión legal,Aptitud alta",No apta,No apta,No apta,No apta
+275,Caldas,Riosucio,No apta,Exclusión legal,Aptitud alta,No apta,Aptitud media
+276,Chocó,Riosucio,No apta,No apta,No apta,No apta,No apta
+277,Cundinamarca,Guayabal de Síquima,No apta,"Aptitud baja,No apta",No apta,Aptitud media,Aptitud media
+278,Cundinamarca,Vianí,Aptitud alta,Aptitud baja,No apta,No apta,Exclusión legal
+279,Cundinamarca,Sasaima,No apta,No apta,No apta,No apta,"Aptitud baja,No apta"
+280,Huila,Timaná,Aptitud baja,No apta,No apta,No apta,Exclusión legal
+281,Huila,Guadalupe,"No apta,Aptitud baja",Aptitud baja,Aptitud media,No apta,Exclusión legal
+282,Antioquia,Guadalupe,"Aptitud alta,Exclusión legal",Exclusión legal,Aptitud alta,No apta,Exclusión legal
+283,Santander,Guadalupe,No apta,"No apta,Exclusión legal",Aptitud alta,No apta,"No apta,Exclusión legal"
+284,Antioquia,La Ceja,No apta,Exclusión legal,No apta,No apta,Aptitud alta
+285,Antioquia,Caldas,No apta,Exclusión legal,No apta,No apta,Exclusión legal
+286,Boyacá,Caldas,No apta,Exclusión legal,Exclusión legal,Aptitud alta,"Aptitud media,Aptitud baja"
+287,Antioquia,Angelópolis,"Exclusión legal,Aptitud baja","Exclusión legal,No apta","Aptitud media,Exclusión legal","Aptitud baja,No apta","No apta,Exclusión legal"
+288,Huila,Oporapa,"Aptitud baja,Exclusión legal",No apta,Aptitud alta,No apta,No apta
+289,Boyacá,Pesca,No apta,No apta,No apta,No apta,No apta
+290,Antioquia,Guarne,No apta,No apta,No apta,No apta,No apta
+291,Huila,Gigante,No apta,No apta,Aptitud alta,No apta,No apta
+292,Cauca,Totoró,No apta,Exclusión legal,Aptitud alta,No apta,No apta
+293,Antioquia,Don Matías,"Aptitud alta,Aptitud baja",No apta,No apta,No apta,"No apta,Aptitud alta,Aptitud media"
+294,Antioquia,Entrerrios,Aptitud baja,Exclusión legal,"Exclusión legal,Aptitud media",Aptitud alta,Aptitud alta
+295,Antioquia,Giraldo,No apta,Exclusión legal,Aptitud alta,"Aptitud baja,Aptitud media",No apta
+296,Meta,La Macarena,No apta,No apta,No apta,No apta,No apta
+297,Antioquia,Carolina,Aptitud media,"Exclusión legal,No apta",No apta,Aptitud alta,"Aptitud media,No apta"
+298,Antioquia,Santa Rosa de Osos,Aptitud media,Aptitud media,No apta,No apta,No apta
+299,Antioquia,San José de la Montaña,No apta,Exclusión legal,"No apta,Exclusión legal",No apta,"Aptitud baja,Exclusión legal"
+300,Antioquia,San Luis,Exclusión legal,No apta,"Aptitud baja,Exclusión legal",No apta,Exclusión legal
+301,Tolima,San Luis,Exclusión legal,"No apta,Exclusión legal","Aptitud media,Exclusión legal","Aptitud baja,Exclusión legal",Exclusión legal
+302,Antioquia,San Carlos,Exclusión legal,"Aptitud baja,Aptitud media",Aptitud alta,Exclusión legal,Exclusión legal
+303,Córdoba,San Carlos,Exclusión legal,Aptitud baja,Exclusión legal,Aptitud media,Exclusión legal
+304,Chocó,Unguía,No apta,"Exclusión legal,Aptitud baja",No apta,No apta,No apta
+305,Chocó,Acandí,No apta,No apta,Exclusión legal,No apta,No apta
+306,Boyacá,Ventaquemada,Exclusión legal,Exclusión legal,"Aptitud alta,Aptitud baja",No apta,No apta
+307,Córdoba,Montelíbano,Exclusión legal,No apta,Exclusión legal,No apta,Exclusión legal
+308,Antioquia,Nechí,Exclusión legal,No apta,Exclusión legal,Exclusión legal,Exclusión legal
+309,Sucre,Tolú,No apta,No apta,No apta,No apta,No apta
+310,Bolívar,Arjona,Exclusión legal,Exclusión legal,Exclusión legal,"Aptitud alta,Exclusión legal",Exclusión legal
+311,Boyacá,Zetaquirá,No apta,Exclusión legal,Aptitud alta,"Aptitud baja,No apta",Aptitud media
+312,Boyacá,Labranzagrande,Aptitud baja,Exclusión legal,"Aptitud baja,Aptitud media",Aptitud baja,"Aptitud media,No apta"
+313,Boyacá,Rondón,No apta,Exclusión legal,Aptitud alta,Exclusión legal,No apta
+314,Cundinamarca,Carmen de Carupa,"Exclusión legal,No apta",Exclusión legal,Exclusión legal,No apta,No apta
+315,Boyacá,Tuta,No apta,No apta,No apta,Aptitud media,No apta
+316,Boyacá,Boyacá,No apta,"Exclusión legal,No apta","Exclusión legal,No apta,Aptitud baja","Aptitud baja,Exclusión legal",Aptitud alta
+317,Boyacá,Buenavista,No apta,Exclusión legal,Aptitud alta,Aptitud media,Aptitud alta
+318,Quindío,Buenavista,No apta,No apta,Aptitud media,No apta,Exclusión legal
+319,Córdoba,Buenavista,Exclusión legal,No apta,Exclusión legal,No apta,Exclusión legal
+320,Sucre,Buenavista,Exclusión legal,Exclusión legal,Exclusión legal,"Aptitud alta,Exclusión legal",Exclusión legal
+321,Boyacá,Samacá,No apta,No apta,No apta,No apta,No apta
+322,Boyacá,Tunja,"Aptitud media,Aptitud alta",No apta,No apta,Aptitud media,"Aptitud alta,Exclusión legal"
+323,Boyacá,San Miguel de Sema,"Aptitud alta,Aptitud media","Exclusión legal,No apta","No apta,Exclusión legal",Aptitud alta,Aptitud media
+324,Boyacá,Sogamoso,No apta,Exclusión legal,Exclusión legal,No apta,No apta
+325,Boyacá,Saboyá,Aptitud alta,Exclusión legal,"Aptitud media,Aptitud baja",No apta,"Aptitud alta,Aptitud media"
+326,Boyacá,Firavitoba,"Aptitud media,No apta",Exclusión legal,Exclusión legal,No apta,No apta
+327,Boyacá,Nobsa,No apta,Exclusión legal,Exclusión legal,No apta,No apta
+328,Boyacá,Floresta,Aptitud media,Exclusión legal,Exclusión legal,No apta,"Aptitud media,Exclusión legal"
+329,Santander,Jesús María,No apta,"No apta,Exclusión legal",No apta,Aptitud media,"No apta,Aptitud media"
+330,Boyacá,Moniquirá,"Aptitud baja,Exclusión legal",No apta,No apta,No apta,No apta
+331,Boyacá,Paipa,No apta,Exclusión legal,"Aptitud media,Aptitud alta","Aptitud alta,Exclusión legal",No apta
+332,Boyacá,San José de Pare,No apta,No apta,Aptitud alta,Aptitud media,No apta
+333,Santander,Páramo,"Aptitud baja,Aptitud media",Exclusión legal,No apta,"Aptitud alta,Aptitud media",Exclusión legal
+334,Santander,Santa Helena del Opón,"Aptitud media,Aptitud alta","No apta,Aptitud baja",No apta,Aptitud baja,Exclusión legal
+335,Cauca,Toribío,No apta,No apta,Aptitud alta,No apta,No apta
+336,Cauca,Timbiquí,No apta,Aptitud baja,Exclusión legal,Exclusión legal,No apta
+337,Santander,Vélez,No apta,Exclusión legal,No apta,Aptitud media,Exclusión legal
+338,Santander,Macaravita,No apta,"No apta,Exclusión legal","Aptitud media,Aptitud alta",Aptitud alta,"Exclusión legal,Aptitud alta"
+339,Santander,Capitanejo,Aptitud media,No apta,No apta,"No apta,Aptitud alta","No apta,Aptitud media"
+340,Arauca,Fortul,Exclusión legal,No apta,Exclusión legal,No apta,Exclusión legal
+341,Caquetá,San Vicente del Caguán,No apta,Aptitud baja,Aptitud alta,No apta,No apta
+342,Huila,Teruel,No apta,"Aptitud media,Exclusión legal",Aptitud alta,"Aptitud alta,Exclusión legal",No apta
+343,Santander,Matanza,Aptitud media,Exclusión legal,"Aptitud baja,Exclusión legal",Aptitud media,Aptitud baja
+344,Norte de Santander,Pamplonita,Aptitud media,Exclusión legal,Aptitud alta,Aptitud media,Aptitud baja
+345,Cesar,San Alberto,Exclusión legal,"Aptitud media,Exclusión legal",No apta,No apta,Exclusión legal
+346,Valle del Cauca,Pradera,Exclusión legal,Exclusión legal,Aptitud alta,Aptitud media,Exclusión legal
+347,Valle del Cauca,Cali,No apta,No apta,"Aptitud media,Aptitud alta",No apta,No apta
+348,Boyacá,Corrales,Aptitud media,"No apta,Exclusión legal",Exclusión legal,No apta,Aptitud media
+349,Boyacá,Togüí,"No apta,Aptitud media",Exclusión legal,Aptitud alta,Aptitud media,"Aptitud media,Exclusión legal"
+350,Norte de Santander,Ragonvalia,No apta,"Exclusión legal,No apta",Aptitud alta,Aptitud media,No apta
+351,Norte de Santander,Bochalema,No apta,Exclusión legal,No apta,Aptitud media,"No apta,Aptitud alta,Exclusión legal"
+352,Norte de Santander,Ocaña,"Exclusión legal,Aptitud alta",Exclusión legal,Aptitud alta,Aptitud alta,Exclusión legal
+353,Norte de Santander,Cúcuta,No apta,No apta,Exclusión legal,No apta,No apta
+354,Norte de Santander,Teorama,No apta,No apta,Aptitud alta,No apta,No apta
+355,Valle del Cauca,Yumbo,"Aptitud media,Aptitud baja",No apta,No apta,"Aptitud baja,Exclusión legal",No apta
+356,Boyacá,Duitama,No apta,Exclusión legal,Exclusión legal,"Exclusión legal,Aptitud alta","Aptitud media,Exclusión legal"
+357,La Guajira,Urumita,No apta,No apta,Aptitud alta,"No apta,Aptitud alta",No apta
+358,Valle del Cauca,Buenaventura,No apta,No apta,No apta,No apta,No apta
+359,Boyacá,Socha,No apta,"No apta,Exclusión legal",Exclusión legal,"Exclusión legal,Aptitud alta","Aptitud alta,Aptitud media,Exclusión legal"
+360,La Guajira,Villanueva,"Exclusión legal,Aptitud media",No apta,Aptitud alta,Aptitud media,No apta
+361,Bolívar,Villanueva,"Exclusión legal,No apta","No apta,Exclusión legal",Exclusión legal,"Aptitud baja,Aptitud alta","No apta,Exclusión legal"
+362,Santander,Villanueva,"Exclusión legal,No apta","Exclusión legal,No apta",Aptitud alta,No apta,"No apta,Exclusión legal"
+363,Casanare,Villanueva,Exclusión legal,No apta,Exclusión legal,Aptitud media,Exclusión legal
+364,Nariño,Ricaurte,Exclusión legal,Exclusión legal,Exclusión legal,Exclusión legal,Exclusión legal
+365,Cundinamarca,Ricaurte,Exclusión legal,Exclusión legal,No apta,No apta,Exclusión legal
+366,Caquetá,Cartagena del Chairá,No apta,Aptitud baja,No apta,No apta,No apta
+367,Caquetá,San José del Fragua,Exclusión legal,Aptitud baja,No apta,Aptitud baja,Exclusión legal
+368,Cauca,Piamonte,Exclusión legal,Aptitud baja,Exclusión legal,Exclusión legal,Exclusión legal
+369,Huila,Acevedo,No apta,No apta,Aptitud alta,No apta,No apta
+370,Arauca,Saravena,No apta,No apta,Exclusión legal,No apta,No apta
+371,Valle del Cauca,El Dovio,No apta,No apta,No apta,"Aptitud alta,Exclusión legal",No apta
+372,Cundinamarca,Tocaima,Exclusión legal,Exclusión legal,"No apta,Aptitud baja",No apta,Exclusión legal
+373,Cundinamarca,El Colegio,Aptitud media,Exclusión legal,Aptitud alta,"Aptitud alta,Exclusión legal","Exclusión legal,Aptitud media"
+374,Cundinamarca,Soacha,Aptitud media,Exclusión legal,Exclusión legal,No apta,No apta
+375,Cundinamarca,Anapoima,Exclusión legal,Exclusión legal,Aptitud alta,No apta,Exclusión legal
+376,Quindío,Quimbaya,Exclusión legal,"Aptitud media,Exclusión legal",No apta,No apta,Exclusión legal
+377,Huila,San Agustín,No apta,"Aptitud baja,Aptitud media",No apta,No apta,No apta
+378,Nariño,Roberto Payán (San José),No apta,Aptitud baja,No apta,No apta,No apta
+379,Huila,Saladoblanco,No apta,No apta,Aptitud alta,"Aptitud baja,Aptitud media",No apta
+380,Valle del Cauca,Obando,"No apta,Aptitud media,Aptitud alta",Exclusión legal,"Aptitud media,Exclusión legal",Aptitud alta,Exclusión legal
+381,Quindío,Circasia,No apta,Exclusión legal,No apta,No apta,Exclusión legal
+382,Cundinamarca,Tena,"No apta,Aptitud alta",Exclusión legal,Aptitud alta,"No apta,Aptitud media",Aptitud alta
+383,Tolima,Ibagué,"No apta,Aptitud alta",Exclusión legal,No apta,No apta,Exclusión legal
+384,Valle del Cauca,Versalles,"Exclusión legal,Aptitud alta",No apta,No apta,No apta,No apta
+385,Cundinamarca,Mosquera,Exclusión legal,Exclusión legal,Exclusión legal,No apta,No apta
+386,Nariño,Mosquera,No apta,"Aptitud media,Exclusión legal,Aptitud baja","Exclusión legal,No apta",No apta,No apta
+387,Quindío,Filandia,"Aptitud alta,Aptitud media",No apta,No apta,No apta,Exclusión legal
+388,Cundinamarca,"Bogotá, D. C.",No apta,No apta,No apta,No apta,No apta
+389,Boyacá,Socotá,No apta,No apta,"Aptitud alta,Aptitud media","Exclusión legal,Aptitud alta",No apta
+390,Chocó,Istmina,Exclusión legal,Aptitud baja,Exclusión legal,Exclusión legal,Exclusión legal
+391,Chocó,Bajo Baudó (Pizarro),No apta,Exclusión legal,Exclusión legal,Exclusión legal,No apta
+392,Cauca,Villa Rica,Exclusión legal,"Aptitud alta,Exclusión legal",Exclusión legal,"Aptitud alta,Aptitud media",Exclusión legal
+393,Amazonas,Tarapacá,No apta,"Aptitud media,Exclusión legal",Exclusión legal,"Aptitud media,Exclusión legal",No apta
+394,Amazonas,El Encanto,No apta,No apta,Exclusión legal,Aptitud media,No apta
+395,Amazonas,Puerto Arica,No apta,No apta,No apta,"Aptitud baja,Exclusión legal",No apta
+396,Amazonas,La Pedrera,No apta,No apta,No apta,"Exclusión legal,Aptitud baja",No apta
+397,Vaupés,Taraira,No apta,No apta,No apta,No apta,No apta
+398,Casanare,Sácama,"Aptitud baja,Exclusión legal",Aptitud baja,"Aptitud baja,Aptitud media",Aptitud baja,Exclusión legal
+399,Nariño,Santa Bárbara (Iscuandé),No apta,No apta,Exclusión legal,No apta,No apta
+400,Huila,Tesalia,Aptitud media,Aptitud baja,Aptitud alta,Aptitud media,No apta
+401,Huila,Nátaga,Aptitud media,"Aptitud baja,Aptitud alta,Exclusión legal",Aptitud alta,No apta,"Aptitud baja,No apta,Exclusión legal"
+402,Nariño,El Charco,No apta,Aptitud media,Exclusión legal,Aptitud baja,No apta
+403,Santander,Chima,"Aptitud baja,Exclusión legal",No apta,No apta,No apta,No apta
+404,Córdoba,Chima,Exclusión legal,Exclusión legal,Exclusión legal,No apta,Exclusión legal
+405,Huila,Santa María,No apta,Exclusión legal,Aptitud alta,No apta,Aptitud baja
+406,Boyacá,Santa María,"No apta,Exclusión legal","No apta,Aptitud baja","Aptitud alta,Aptitud media","No apta,Exclusión legal","No apta,Exclusión legal"
+407,Guainía,La Guadalupe,No apta,"Exclusión legal,No apta",Exclusión legal,"No apta,Exclusión legal",No apta
+408,Vaupés,Carurú,No apta,No apta,No apta,No apta,No apta
+409,Cauca,Santander de Quilichao,"No apta,Aptitud media",No apta,Aptitud alta,Aptitud media,Exclusión legal
+410,Cauca,Padilla,Exclusión legal,"No apta,Aptitud media",No apta,"Aptitud media,Exclusión legal",Exclusión legal
+411,Cauca,Puerto Tejada,Exclusión legal,No apta,Exclusión legal,Aptitud media,Exclusión legal
+412,Huila,Aipe,"No apta,Aptitud baja","Exclusión legal,Aptitud baja",Aptitud alta,Aptitud alta,Exclusión legal
+413,Guaviare,El Retorno,No apta,No apta,No apta,No apta,No apta
+414,Guainía,San Felipe,No apta,"Exclusión legal,No apta","No apta,Exclusión legal","No apta,Exclusión legal",No apta
+415,Meta,Puerto Concordia,No apta,No apta,No apta,No apta,No apta
+416,Valle del Cauca,Dagua,No apta,"Aptitud baja,Aptitud media",No apta,No apta,No apta
+417,Guainía,Puerto Colombia,No apta,Aptitud baja,Exclusión legal,Exclusión legal,No apta
+418,Atlántico,Puerto Colombia,No apta,No apta,No apta,No apta,No apta
+419,Meta,Uribe,No apta,No apta,"Aptitud media,Exclusión legal",No apta,No apta
+420,Meta,San Juan de Arama,No apta,No apta,"Aptitud baja,Aptitud media",No apta,No apta
+421,Meta,Cubarral,Exclusión legal,Aptitud alta,Aptitud alta,"Aptitud media,No apta",Exclusión legal
+422,Meta,Acacías,Exclusión legal,No apta,No apta,No apta,Exclusión legal
+423,Boyacá,La Uvita,"No apta,Aptitud baja",Exclusión legal,Exclusión legal,"No apta,Aptitud alta",No apta
+424,Casanare,La Salina,"Aptitud baja,No apta",Exclusión legal,No apta,Exclusión legal,Exclusión legal
+425,Valle del Cauca,Calima (El Darién),No apta,No apta,No apta,No apta,No apta
+426,Tolima,Cunday,Exclusión legal,Exclusión legal,Aptitud alta,Exclusión legal,Exclusión legal
+427,Valle del Cauca,Tuluá,Aptitud alta,"No apta,Aptitud baja",No apta,No apta,No apta
+428,Valle del Cauca,Trujillo,No apta,Exclusión legal,No apta,No apta,Exclusión legal
+429,Tolima,Suárez,Exclusión legal,Exclusión legal,Exclusión legal,"Aptitud alta,Exclusión legal",Exclusión legal
+430,Cauca,Suárez,Aptitud media,Exclusión legal,Aptitud alta,No apta,Exclusión legal
+431,Tolima,Icononzo,"No apta,Exclusión legal,Aptitud baja",Exclusión legal,Aptitud alta,Exclusión legal,Exclusión legal
+432,Tolima,Melgar,No apta,No apta,No apta,No apta,No apta
+433,Cundinamarca,Sibaté,No apta,Exclusión legal,Exclusión legal,No apta,No apta
+434,Chocó,Litoral del San Juan,No apta,Exclusión legal,Exclusión legal,Exclusión legal,No apta
+435,Meta,Cabuyaro,Exclusión legal,No apta,Exclusión legal,No apta,Exclusión legal
+436,Cundinamarca,Ubalá,"Aptitud alta,Aptitud media",Exclusión legal,No apta,No apta,No apta
+437,Casanare,Tauramena,Exclusión legal,No apta,Exclusión legal,Aptitud alta,Exclusión legal
+438,Risaralda,Pueblo Rico,No apta,No apta,"Exclusión legal,Aptitud baja",No apta,No apta
+439,Cundinamarca,San Antonio de  Tequendama,Aptitud media,Exclusión legal,No apta,"Aptitud media,No apta",Aptitud media
+440,Quindío,Montenegro,Exclusión legal,No apta,No apta,No apta,Exclusión legal
+441,Chocó,Atrato (Yuto),No apta,No apta,No apta,No apta,No apta
+442,Chocó,Lloró,Exclusión legal,"Aptitud baja,Aptitud media",Exclusión legal,Exclusión legal,Exclusión legal
+443,Chocó,Nuquí,No apta,Exclusión legal,Exclusión legal,Exclusión legal,No apta
+444,Amazonas,La Victoria (Pacoa),No apta,No apta,No apta,No apta,No apta
+445,Boyacá,Soatá,"Aptitud baja,Aptitud alta,Exclusión legal",Exclusión legal,No apta,No apta,No apta
+446,Caldas,Chinchiná,Exclusión legal,"No apta,Aptitud media,Aptitud alta",No apta,No apta,Exclusión legal
+447,Antioquia,Urrao,No apta,No apta,No apta,"Exclusión legal,Aptitud media",No apta
+448,Antioquia,Abriaquí,No apta,No apta,No apta,"Aptitud media,Exclusión legal",No apta
+449,Antioquia,Vigía del Fuerte,Exclusión legal,Exclusión legal,Exclusión legal,Exclusión legal,Exclusión legal
+450,Chocó,Bojayá (Bellavista),Exclusión legal,"No apta,Exclusión legal",Exclusión legal,Exclusión legal,Exclusión legal
+451,Antioquia,Uramita,"No apta,Exclusión legal",No apta,No apta,No apta,Exclusión legal
+452,Caldas,Villamaría,No apta,No apta,"Exclusión legal,Aptitud media",No apta,Exclusión legal
+453,Caldas,Viterbo,Exclusión legal,Aptitud alta,No apta,"No apta,Aptitud media",Exclusión legal
+454,Tolima,Herveo,"Aptitud alta,Aptitud baja",Exclusión legal,Aptitud alta,Exclusión legal,Exclusión legal
+455,Caldas,Risaralda,No apta,Aptitud alta,No apta,Aptitud media,Exclusión legal
+456,Caldas,Anserma,No apta,"Aptitud media,Exclusión legal",No apta,No apta,Exclusión legal
+457,Caldas,Manzanares,No apta,Exclusión legal,No apta,No apta,Exclusión legal
+458,Caldas,Marulanda,No apta,No apta,No apta,No apta,No apta
+459,Boyacá,San Mateo,No apta,Exclusión legal,Aptitud alta,No apta,"Exclusión legal,No apta"
+460,Boyacá,Otanche,No apta,No apta,Aptitud alta,No apta,No apta
+461,Boyacá,Puerto Boyacá,No apta,No apta,No apta,No apta,No apta
+462,Antioquia,Ciudad Bolívar,Aptitud baja,Exclusión legal,No apta,No apta,Exclusión legal
+463,Santander,San Miguel,No apta,Exclusión legal,Aptitud alta,Aptitud media,"No apta,Aptitud media"
+464,Antioquia,Salgar,Aptitud baja,"Aptitud baja,Aptitud media",No apta,No apta,"No apta,Aptitud baja"
+465,Meta,El Castillo,Exclusión legal,Aptitud alta,"Exclusión legal,Aptitud baja","No apta,Aptitud alta",Exclusión legal
+466,Meta,El Dorado,Exclusión legal,No apta,"Aptitud baja,Exclusión legal",Exclusión legal,Exclusión legal
+467,Antioquia,Santa Fe de Antioquia,Aptitud media,"Aptitud baja,Aptitud media",Aptitud alta,No apta,Aptitud baja
+468,Santander,Concepción,No apta,Exclusión legal,No apta,No apta,No apta
+469,Antioquia,Concepción,No apta,Exclusión legal,No apta,No apta,Exclusión legal
+470,Antioquia,Cañasgordas,"Exclusión legal,Aptitud alta",No apta,No apta,No apta,No apta
+471,Antioquia,San Andrés,"Aptitud media,No apta","Exclusión legal,No apta",No apta,"Aptitud baja,Exclusión legal",Aptitud media
+472,Santander,San Andrés,"Aptitud baja,Aptitud media",Exclusión legal,Aptitud alta,"Aptitud baja,Aptitud alta",No apta
+473,San Andrés Providencia y Santa Catalina,San Andrés,No apta,No apta,No apta,No apta,No apta
+474,Santander,Málaga,No apta,Exclusión legal,No apta,"Exclusión legal,Aptitud alta",No apta
+475,Boyacá,Chiscas,No apta,No apta,No apta,No apta,No apta
+476,Antioquia,Dabeiba,Exclusión legal,Exclusión legal,Aptitud alta,No apta,Exclusión legal
+477,Chocó,Juradó,No apta,Aptitud media,Exclusión legal,No apta,No apta
+478,Valle del Cauca,Ulloa,"No apta,Aptitud alta",Exclusión legal,No apta,Aptitud media,Exclusión legal
+479,Tolima,Santa Isabel,No apta,Exclusión legal,No apta,No apta,"Aptitud alta,Aptitud media"
+480,Valle del Cauca,El Águila,No apta,Exclusión legal,No apta,No apta,Exclusión legal
+481,Caldas,La Merced,"Aptitud baja,Exclusión legal","No apta,Exclusión legal","Aptitud baja,Aptitud media","Aptitud baja,No apta","Exclusión legal,No apta"
+482,Caldas,Supía,Aptitud media,"Aptitud baja,Aptitud alta",Aptitud alta,No apta,Exclusión legal
+483,Antioquia,Campamento,No apta,"Aptitud media,Exclusión legal",No apta,No apta,"Aptitud media,Aptitud alta"
+484,Antioquia,Peque,Aptitud baja,Exclusión legal,Aptitud alta,Aptitud media,Aptitud baja
+485,Antioquia,Yarumal,Aptitud media,Exclusión legal,No apta,Aptitud media,No apta
+486,Antioquia,Guatapé,Aptitud alta,"No apta,Exclusión legal",No apta,"No apta,Exclusión legal","No apta,Exclusión legal"
+487,Antioquia,San Rafael,Aptitud alta,"Aptitud media,No apta","Aptitud baja,Exclusión legal",Exclusión legal,Exclusión legal
+488,Antioquia,San Roque,No apta,No apta,No apta,No apta,No apta
+489,Antioquia,Vegachí,Exclusión legal,Aptitud media,Aptitud alta,Aptitud baja,Exclusión legal
+490,Antioquia,Remedios,Exclusión legal,Aptitud media,Exclusión legal,No apta,Exclusión legal
+491,Antioquia,Yondó (Casabe),Exclusión legal,Aptitud media,Exclusión legal,No apta,Exclusión legal
+492,Antioquia,Jardín,Aptitud media,Exclusión legal,No apta,"No apta,Aptitud baja",Aptitud media
+493,Antioquia,Caramanta,Aptitud baja,Exclusión legal,Aptitud alta,No apta,"Aptitud media,Exclusión legal"
+494,Antioquia,Ituango,Aptitud baja,No apta,No apta,Aptitud baja,No apta
+495,Antioquia,Andes,No apta,No apta,No apta,No apta,No apta
+496,Antioquia,Mutatá,No apta,No apta,No apta,No apta,No apta
+497,Antioquia,Apartadó,Exclusión legal,No apta,Exclusión legal,No apta,Exclusión legal
+498,Antioquia,Támesis,"Aptitud baja,Aptitud alta","Aptitud baja,Aptitud media",Aptitud alta,Aptitud alta,"Aptitud baja,No apta"
+499,Antioquia,Jericó,No apta,"Aptitud baja,Exclusión legal",No apta,No apta,"Aptitud alta,No apta"
+500,Boyacá,Jericó,"Exclusión legal,No apta",Exclusión legal,"Aptitud baja,No apta","No apta,Aptitud media",No apta
+501,Córdoba,Tierralta,Exclusión legal,Exclusión legal,Exclusión legal,No apta,Exclusión legal
+502,Córdoba,Canalete,Exclusión legal,Aptitud baja,Exclusión legal,Aptitud alta,Exclusión legal
+503,Antioquia,Necoclí,No apta,No apta,Exclusión legal,No apta,No apta
+504,Antioquia,Pueblorrico,"Aptitud baja,Aptitud alta","Exclusión legal,No apta",Aptitud alta,"Aptitud media,Aptitud alta","No apta,Exclusión legal"
+505,Antioquia,San Juan de Urabá,No apta,No apta,Exclusión legal,No apta,No apta
+506,Antioquia,Arboletes,No apta,Aptitud media,Exclusión legal,Aptitud alta,No apta
+507,Córdoba,Puerto Escondido,No apta,"Aptitud baja,Aptitud media",Exclusión legal,No apta,No apta
+508,Antioquia,Briceño,Aptitud alta,"Aptitud baja,No apta","Aptitud baja,Aptitud media","No apta,Aptitud baja","Aptitud baja,Exclusión legal"
+509,Boyacá,Briceño,No apta,"Exclusión legal,No apta",Aptitud alta,No apta,"Aptitud media,Exclusión legal"
+510,Antioquia,Segovia,No apta,No apta,Exclusión legal,No apta,No apta
+511,Antioquia,El Bagre,Exclusión legal,Exclusión legal,Exclusión legal,Exclusión legal,Exclusión legal
+512,Córdoba,Puerto Libertador,Exclusión legal,No apta,Exclusión legal,No apta,Exclusión legal
+513,Bolívar,Santa Rosa del Sur,Aptitud baja,Exclusión legal,Aptitud alta,No apta,Exclusión legal
+514,Cundinamarca,Cachipay,No apta,Exclusión legal,No apta,"Aptitud alta,Aptitud media","Aptitud alta,Aptitud media,No apta"
+515,Cundinamarca,Funza,Exclusión legal,Exclusión legal,Exclusión legal,No apta,No apta
+516,Cundinamarca,Zipacón,"Aptitud alta,Aptitud media",Exclusión legal,"Aptitud baja,Exclusión legal",Aptitud media,"Aptitud alta,Exclusión legal"
+517,Cundinamarca,Anolaima,No apta,Exclusión legal,No apta,"Aptitud baja,Aptitud alta","Aptitud alta,Aptitud media"
+518,Bolívar,Mompós,Exclusión legal,No apta,Exclusión legal,Exclusión legal,Exclusión legal
+519,Córdoba,Lorica,Exclusión legal,Exclusión legal,Exclusión legal,No apta,Exclusión legal
+520,Córdoba,Momil,Exclusión legal,Exclusión legal,Exclusión legal,No apta,Exclusión legal
+521,Sucre,Palmito,Exclusión legal,Exclusión legal,Exclusión legal,Aptitud alta,Exclusión legal
+522,Bolívar,Talaigua Nuevo,Exclusión legal,Exclusión legal,Exclusión legal,Exclusión legal,Exclusión legal
+523,Córdoba,San Antero,No apta,Exclusión legal,No apta,No apta,No apta
+524,Sucre,Toluviejo,Exclusión legal,Exclusión legal,Exclusión legal,"Aptitud baja,Exclusión legal",Exclusión legal
+525,Sucre,Colosó,Exclusión legal,Exclusión legal,Exclusión legal,No apta,Exclusión legal
+526,Bolívar,Zambrano,No apta,No apta,No apta,Aptitud media,No apta
+527,Tolima,Líbano,Aptitud media,"Aptitud baja,No apta",Aptitud alta,Aptitud baja,Aptitud alta
+528,Cundinamarca,Subachoque,Exclusión legal,Exclusión legal,Exclusión legal,No apta,No apta
+529,Cundinamarca,Supatá,No apta,Exclusión legal,No apta,"Exclusión legal,Aptitud baja","Aptitud alta,No apta"
+530,Tolima,Palocabildo,"Aptitud media,Aptitud baja",Exclusión legal,Aptitud alta,No apta,Exclusión legal
+531,Tolima,Falan,"No apta,Exclusión legal,Aptitud baja","No apta,Exclusión legal",Aptitud alta,Aptitud media,Exclusión legal
+532,Cundinamarca,La Palma,Aptitud media,"Aptitud baja,Exclusión legal",No apta,Aptitud media,"No apta,Exclusión legal"
+533,Cundinamarca,Guaduas,No apta,Aptitud baja,No apta,Aptitud media,No apta
+534,Caldas,Marquetalia,"Aptitud baja,Exclusión legal",No apta,"Exclusión legal,Aptitud baja",No apta,No apta
+535,Cundinamarca,Paime,"No apta,Aptitud media,Aptitud baja",Exclusión legal,No apta,Aptitud media,Exclusión legal
+536,Antioquia,Fredonia,"Aptitud baja,Exclusión legal","Aptitud alta,Exclusión legal",No apta,Aptitud media,"Aptitud alta,Aptitud media,No apta"
+537,Antioquia,Venecia,"No apta,Aptitud baja","Exclusión legal,Aptitud media",No apta,"Aptitud baja,Exclusión legal",Exclusión legal
+538,Cundinamarca,Venecia,No apta,Exclusión legal,Aptitud alta,"No apta,Aptitud baja","No apta,Aptitud media"
+539,Antioquia,La Estrella,No apta,Exclusión legal,No apta,No apta,Exclusión legal
+540,Antioquia,Marinilla,No apta,Exclusión legal,No apta,No apta,Exclusión legal
+541,Antioquia,Peñol,"Aptitud baja,Aptitud media",Exclusión legal,No apta,"Aptitud media,Exclusión legal",Exclusión legal
+542,Bolívar,María la Baja,Exclusión legal,"Aptitud baja,Aptitud media",Exclusión legal,No apta,Exclusión legal
+543,Antioquia,San Vicente,No apta,Exclusión legal,No apta,"Exclusión legal,Aptitud media",Exclusión legal
+544,Bolívar,San Juan Nepomuceno,"No apta,Exclusión legal",No apta,No apta,No apta,"No apta,Exclusión legal"
+545,Santander,Simacota,Exclusión legal,Exclusión legal,Aptitud alta,No apta,Exclusión legal
+546,Antioquia,Anzá,No apta,"Aptitud media,Aptitud alta",Aptitud alta,No apta,"Aptitud alta,Aptitud baja"
+547,Sucre,San Onofre,No apta,Exclusión legal,Exclusión legal,No apta,No apta
+548,Magdalena,Zapayán,Exclusión legal,Exclusión legal,Exclusión legal,Aptitud baja,Exclusión legal
+549,Magdalena,Sabanas de San Ángel,Exclusión legal,No apta,Exclusión legal,Aptitud media,Exclusión legal
+550,Magdalena,Algarrobo,Exclusión legal,No apta,Exclusión legal,No apta,Exclusión legal
+551,Atlántico,Repelón,Exclusión legal,Exclusión legal,Exclusión legal,Aptitud media,Exclusión legal
+552,Bolívar,Clemencia,Exclusión legal,Exclusión legal,No apta,Aptitud media,Exclusión legal
+553,Magdalena,Fundación,No apta,No apta,No apta,No apta,No apta
+554,Antioquia,Alejandría,No apta,No apta,Aptitud alta,No apta,No apta
+555,Antioquia,Copacabana,"Aptitud media,Exclusión legal",Exclusión legal,No apta,No apta,Aptitud media
+556,Antioquia,Girardota,No apta,No apta,"Aptitud media,Exclusión legal",No apta,No apta
+557,Antioquia,San Jerónimo,Aptitud media,"Aptitud alta,Aptitud media",No apta,Aptitud media,Aptitud alta
+558,Antioquia,Gómez plata,Aptitud media,"Aptitud baja,Aptitud media",No apta,Aptitud media,Exclusión legal
+559,Atlántico,Ponedera,Exclusión legal,Exclusión legal,Exclusión legal,No apta,Exclusión legal
+560,Magdalena,El Retén,No apta,No apta,No apta,No apta,No apta
+561,Antioquia,Angostura,No apta,No apta,No apta,Aptitud alta,Aptitud alta
+562,Antioquia,Sabanalarga,"Aptitud alta,Exclusión legal",Exclusión legal,Aptitud alta,Aptitud media,"No apta,Aptitud media"
+563,Atlántico,Sabanalarga,Exclusión legal,Exclusión legal,Exclusión legal,No apta,Exclusión legal
+564,Casanare,Sabanalarga,"Aptitud baja,No apta",No apta,No apta,"Aptitud media,Exclusión legal",Exclusión legal
+565,Bolívar,Montecristo,No apta,No apta,"Aptitud baja,Aptitud media",No apta,No apta
+566,Bolívar,Barranco de Loba,Exclusión legal,Aptitud baja,Exclusión legal,Aptitud baja,Exclusión legal
+567,Córdoba,Cereté,Exclusión legal,Exclusión legal,Exclusión legal,"Aptitud baja,Aptitud alta",Exclusión legal
+568,Córdoba,Sahagún,Exclusión legal,No apta,Exclusión legal,No apta,Exclusión legal
+569,Sucre,San Benito Abad,Exclusión legal,"No apta,Aptitud alta",Exclusión legal,Aptitud media,Exclusión legal
+570,Córdoba,Chinú,Exclusión legal,Exclusión legal,Exclusión legal,No apta,Exclusión legal
+571,Cundinamarca,Cota,"Aptitud baja,Aptitud media",Exclusión legal,Exclusión legal,No apta,No apta
+572,Cundinamarca,Guatavita,No apta,Exclusión legal,Exclusión legal,No apta,No apta
+573,Boyacá,Almeida,"Aptitud alta,Aptitud baja",Exclusión legal,Aptitud alta,"Aptitud baja,Aptitud media",No apta
+574,Boyacá,Soracá,"Exclusión legal,Aptitud alta",Exclusión legal,"No apta,Exclusión legal",Aptitud alta,No apta
+575,Boyacá,Siachoque,Aptitud alta,"No apta,Exclusión legal",No apta,Aptitud media,"Exclusión legal,Aptitud alta"
+576,Boyacá,Cucaita,"Exclusión legal,Aptitud alta",Exclusión legal,Exclusión legal,Aptitud media,No apta
+577,Casanare,Yopal,Exclusión legal,No apta,Aptitud baja,Aptitud alta,Exclusión legal
+578,Boyacá,Guacamayas,No apta,Exclusión legal,"Exclusión legal,Aptitud alta","Aptitud alta,Exclusión legal","Aptitud media,Exclusión legal"
+579,Santander,Socorro,Aptitud media,"Exclusión legal,No apta",No apta,No apta,"No apta,Exclusión legal"
+580,Boyacá,Cubará,No apta,"Aptitud alta,Exclusión legal",No apta,No apta,No apta
+581,Boyacá,Panqueba,No apta,No apta,No apta,No apta,Aptitud media
+582,Santander,Landázuri,Exclusión legal,Exclusión legal,"Aptitud media,Exclusión legal",No apta,Exclusión legal
+583,Santander,California,"No apta,Aptitud media",Exclusión legal,"Aptitud baja,Aptitud media",Aptitud media,No apta
+584,Norte de Santander,Pamplona,"Aptitud media,Aptitud alta","No apta,Exclusión legal",Aptitud alta,Aptitud alta,No apta
+585,Norte de Santander,Villa del Rosario,"Aptitud media,Aptitud baja",No apta,No apta,"Exclusión legal,Aptitud media",No apta
+586,Cesar,Gamarra,Exclusión legal,Aptitud alta,Exclusión legal,Aptitud media,Exclusión legal
+587,Santander,Piedecuesta,No apta,No apta,No apta,No apta,No apta
+588,Santander,Suratá,No apta,Exclusión legal,Aptitud alta,Aptitud media,No apta
+589,Cesar,Pailitas,Exclusión legal,"Aptitud baja,Aptitud alta",Aptitud alta,Aptitud baja,Exclusión legal
+590,Vichada,La Primavera,No apta,Aptitud baja,Exclusión legal,Aptitud media,No apta
+591,Cauca,Miranda,Aptitud alta,No apta,No apta,No apta,Exclusión legal
+592,Cesar,Valledupar,Exclusión legal,"Aptitud baja,Aptitud media",Aptitud alta,No apta,Exclusión legal
+593,La Guajira,Uribia,No apta,No apta,Exclusión legal,No apta,No apta
+594,Putumayo,San Miguel (La Dorada),No apta,No apta,Exclusión legal,No apta,No apta
+595,Nariño,Potosí,No apta,No apta,Exclusión legal,Aptitud alta,"Aptitud media,Exclusión legal"
+596,Putumayo,Puerto Caicedo,Exclusión legal,Aptitud baja,Exclusión legal,No apta,Exclusión legal
+597,Nariño,Cuaspud (Carlosama),No apta,"No apta,Exclusión legal",Exclusión legal,No apta,No apta
+598,Nariño,Puerres,"Aptitud baja,Exclusión legal",Exclusión legal,No apta,No apta,No apta
+599,Putumayo,Villagarzón,Exclusión legal,"Aptitud baja,Aptitud alta",Exclusión legal,Aptitud baja,Exclusión legal
+600,Nariño,Imués,Aptitud alta,Exclusión legal,No apta,No apta,Aptitud alta
+601,Putumayo,Orito,No apta,No apta,No apta,No apta,No apta
+602,Nariño,Guachucal,Exclusión legal,Exclusión legal,Exclusión legal,"Aptitud alta,Exclusión legal",No apta
+603,Nariño,Gualmatán,"Aptitud baja,Exclusión legal",No apta,Exclusión legal,No apta,No apta
+604,Nariño,Aldana,Exclusión legal,Exclusión legal,No apta,No apta,No apta
+605,Nariño,Túquerres,"Aptitud baja,No apta",Exclusión legal,No apta,No apta,No apta
+606,Nariño,Pupiales,No apta,No apta,"Exclusión legal,No apta",No apta,No apta
+607,Nariño,Iles,No apta,Exclusión legal,"Aptitud alta,Exclusión legal",No apta,"Exclusión legal,Aptitud alta"
+608,Nariño,Yacuanquer,"Aptitud alta,Aptitud media",Exclusión legal,"Aptitud baja,Exclusión legal",Aptitud media,"Aptitud media,Exclusión legal"
+609,Caquetá,Solita,Exclusión legal,No apta,Exclusión legal,No apta,Exclusión legal
+610,Nariño,Tangua,Aptitud media,Exclusión legal,Aptitud alta,No apta,No apta
+611,Nariño,Ospina,"Aptitud media,Aptitud alta",Exclusión legal,"Aptitud baja,Exclusión legal","No apta,Aptitud alta",No apta
+612,Nariño,Sapuyes,"Exclusión legal,No apta","No apta,Exclusión legal",Exclusión legal,No apta,No apta
+613,Nariño,Consacá,No apta,"Aptitud baja,No apta",Aptitud alta,"Aptitud media,Aptitud alta","Aptitud media,Aptitud baja"
+614,Caquetá,Curillo,Exclusión legal,No apta,Exclusión legal,No apta,Exclusión legal
+615,Nariño,Providencia,Aptitud media,Exclusión legal,Aptitud alta,Aptitud media,Aptitud media
+616,Nariño,Nariño,"Aptitud media,Aptitud alta",Exclusión legal,Aptitud alta,Aptitud media,"Aptitud media,Aptitud alta"
+617,Cundinamarca,Nariño,"Exclusión legal,No apta","Exclusión legal,No apta",Exclusión legal,No apta,"No apta,Exclusión legal"
+618,Antioquia,Nariño,Exclusión legal,"Aptitud alta,Aptitud media",No apta,Exclusión legal,Exclusión legal
+619,Tolima,San Antonio,"Aptitud alta,Exclusión legal",Exclusión legal,Aptitud alta,Aptitud media,Aptitud media
+620,Nariño,Sandoná,"Aptitud baja,Exclusión legal",Exclusión legal,Aptitud alta,"Aptitud alta,Aptitud baja",Aptitud media
+621,Nariño,Ancuyá,Aptitud media,"Aptitud baja,Exclusión legal",Aptitud alta,No apta,"No apta,Aptitud media"
+622,Caquetá,Milán,Exclusión legal,Aptitud media,Exclusión legal,No apta,Exclusión legal
+623,Tolima,Roncesvalles,Exclusión legal,Exclusión legal,"Aptitud media,Aptitud baja",No apta,No apta
+624,Caquetá,Valparaíso,Exclusión legal,No apta,Exclusión legal,No apta,Exclusión legal
+625,Antioquia,Valparaíso,"Aptitud baja,Aptitud media","Aptitud media,Exclusión legal",Aptitud alta,Aptitud media,"Aptitud media,Exclusión legal,No apta"
+626,Nariño,Linares,"Aptitud media,Aptitud alta",Aptitud baja,Aptitud alta,Aptitud media,No apta
+627,Nariño,Chachagüí,"Exclusión legal,Aptitud baja",No apta,Aptitud alta,Aptitud media,"Aptitud alta,No apta"
+628,Nariño,El Peñol,"Aptitud baja,Exclusión legal,Aptitud alta","Aptitud baja,No apta",Aptitud alta,Aptitud media,Exclusión legal
+629,Santander,Guavatá,No apta,"Exclusión legal,No apta",No apta,Aptitud alta,"No apta,Exclusión legal"
+630,Cesar,El Copey,No apta,"Aptitud baja,Aptitud media",No apta,No apta,No apta
+631,Caquetá,Belén de los Andaquíes,Exclusión legal,Aptitud media,No apta,No apta,Exclusión legal
+632,Nariño,Taminango,"Aptitud alta,No apta","No apta,Aptitud media",Aptitud alta,"Aptitud media,Aptitud alta",Exclusión legal
+633,Caquetá,Montañita,Exclusión legal,Aptitud baja,Aptitud alta,No apta,Exclusión legal
+634,Nariño,Cumbitara,No apta,No apta,No apta,No apta,No apta
+635,Huila,Elías,"Aptitud media,Exclusión legal","No apta,Aptitud alta",Aptitud alta,Aptitud media,Exclusión legal
+636,Nariño,Leiva,"Exclusión legal,Aptitud media",No apta,Aptitud alta,"Aptitud baja,Aptitud alta",No apta
+637,Huila,Agrado,Aptitud media,Aptitud baja,Aptitud alta,Aptitud media,Exclusión legal
+638,Nariño,Francisco Pizarro (Salahonda),No apta,No apta,"No apta,Exclusión legal","Aptitud media,Aptitud alta",No apta
+639,Huila,La Argentina,"Aptitud baja,Exclusión legal",No apta,Aptitud alta,No apta,"Aptitud baja,Aptitud media"
+640,Caquetá,El Paujil,Exclusión legal,No apta,Aptitud alta,No apta,Exclusión legal
+641,Caquetá,El Doncello,Exclusión legal,Aptitud baja,Aptitud alta,No apta,Exclusión legal
+642,Cauca,Guapi,No apta,Aptitud baja,Exclusión legal,Exclusión legal,No apta
+643,Nariño,Olaya Herrera (Bocas de Satinga),Exclusión legal,Aptitud media,Exclusión legal,Exclusión legal,Exclusión legal
+644,Huila,Hobo,Aptitud baja,"Aptitud media,Exclusión legal",Aptitud alta,Aptitud baja,Exclusión legal
+645,Nariño,La Tola,"Exclusión legal,No apta",Aptitud media,Exclusión legal,"No apta,Exclusión legal","Exclusión legal,No apta"
+646,Tolima,Ataco,Aptitud alta,Aptitud media,Aptitud alta,No apta,Exclusión legal
+647,Huila,Campoalegre,Aptitud baja,No apta,Aptitud alta,Aptitud media,Exclusión legal
+648,Huila,Yaguará,Exclusión legal,"No apta,Aptitud media",Exclusión legal,Aptitud media,Exclusión legal
+649,Valle del Cauca,Palmira,Exclusión legal,Exclusión legal,No apta,No apta,Exclusión legal
+650,Tolima,Dolores,"No apta,Aptitud baja","No apta,Aptitud baja,Aptitud media",Aptitud alta,"No apta,Aptitud alta",Exclusión legal
+651,Valle del Cauca,Vijes,"Aptitud alta,No apta",No apta,No apta,"Aptitud media,No apta",No apta
+652,Huila,Íquira,No apta,No apta,Aptitud alta,No apta,No apta
+653,Valle del Cauca,Yotoco,"Exclusión legal,No apta",No apta,No apta,Aptitud alta,Exclusión legal
+654,Huila,Rivera,"Aptitud baja,No apta",No apta,Aptitud alta,Aptitud media,Exclusión legal
+655,Quindío,Génova,No apta,No apta,Aptitud alta,No apta,No apta
+656,Cauca,Caloto,Aptitud media,"Aptitud baja,Exclusión legal",Aptitud alta,No apta,Exclusión legal
+657,Valle del Cauca,El Cerrito,Exclusión legal,No apta,No apta,No apta,"Aptitud media,Aptitud alta"
+658,Boyacá,Coper,Aptitud media,"Exclusión legal,No apta",Aptitud alta,Aptitud baja,Aptitud alta
+659,Valle del Cauca,Ginebra,No apta,"Aptitud media,Exclusión legal",No apta,"Aptitud alta,Exclusión legal",No apta
+660,Cauca,López,No apta,Exclusión legal,Exclusión legal,Exclusión legal,No apta
+661,Valle del Cauca,Roldanillo,Aptitud alta,Exclusión legal,No apta,No apta,Exclusión legal
+662,Valle del Cauca,Florida,Exclusión legal,Exclusión legal,No apta,"Aptitud alta,Aptitud baja",Exclusión legal
+663,Huila,Tello,"Aptitud alta,Exclusión legal",No apta,Aptitud alta,Aptitud media,Exclusión legal
+664,Cauca,Buenos Aires,Aptitud media,"Aptitud media,No apta",Aptitud alta,Aptitud media,Exclusión legal
+665,Cauca,Guachene,Exclusión legal,No apta,"No apta,Aptitud baja",No apta,Exclusión legal
+666,Norte de Santander,Herrán,No apta,No apta,Aptitud alta,No apta,No apta
+667,Valle del Cauca,Candelaria,Exclusión legal,No apta,Exclusión legal,Exclusión legal,Exclusión legal
+668,Atlántico,Candelaria,Exclusión legal,Exclusión legal,Exclusión legal,Aptitud media,Exclusión legal
+669,Tolima,Alpujarra,No apta,"Aptitud baja,No apta",Aptitud alta,Exclusión legal,Exclusión legal
+670,Santander,Santa Bárbara,"Aptitud baja,Exclusión legal",Exclusión legal,Aptitud alta,"Aptitud alta,Aptitud media","Aptitud media,Exclusión legal"
+671,Antioquia,Santa Bárbara,No apta,No apta,No apta,"No apta,Aptitud media",Aptitud media
+672,Huila,Villavieja,Exclusión legal,Exclusión legal,"No apta,Exclusión legal",Aptitud baja,Exclusión legal
+673,Tolima,Natagaima,Exclusión legal,Aptitud baja,Aptitud alta,No apta,Exclusión legal
+674,Arauca,Tame,No apta,No apta,No apta,No apta,No apta
+675,Tolima,Prado,Exclusión legal,Aptitud alta,Aptitud alta,Aptitud baja,Exclusión legal
+676,Tolima,Coyaima,Exclusión legal,Aptitud baja,Aptitud alta,Aptitud media,Exclusión legal
+677,Valle del Cauca,Guacarí,Exclusión legal,No apta,No apta,Aptitud alta,Exclusión legal
+678,Valle del Cauca,La Cumbre,Exclusión legal,Exclusión legal,No apta,No apta,Exclusión legal
+679,Tolima,Villarrica,Aptitud baja,Exclusión legal,Aptitud alta,Exclusión legal,Exclusión legal
+680,Tolima,Saldaña,Exclusión legal,"Aptitud media,Exclusión legal",Exclusión legal,Aptitud baja,Exclusión legal
+681,Tolima,Purificación,Exclusión legal,No apta,Aptitud alta,No apta,Exclusión legal
+682,Quindío,Armenia,No apta,No apta,No apta,No apta,No apta
+683,Antioquia,Armenia,Aptitud baja,Aptitud alta,"Aptitud baja,Aptitud media",No apta,Exclusión legal
+684,Valle del Cauca,Riofrío,"Aptitud alta,Aptitud media",No apta,No apta,No apta,No apta
+685,Tolima,Ortega,"Aptitud baja,Exclusión legal",Aptitud media,Aptitud alta,No apta,Exclusión legal
+686,Valle del Cauca,Andalucía,"Aptitud media,No apta",Exclusión legal,No apta,No apta,Exclusión legal
+687,Cundinamarca,Pandi,"Aptitud baja,Aptitud alta,Exclusión legal","Exclusión legal,No apta",No apta,No apta,"No apta,Exclusión legal"
+688,Tolima,Carmen de Apicalá,Exclusión legal,Aptitud media,Exclusión legal,"Aptitud alta,Aptitud media",Exclusión legal
+689,Tolima,Espinal,Exclusión legal,"Aptitud baja,No apta",Exclusión legal,"Aptitud alta,Exclusión legal",Exclusión legal
+690,Tolima,Guamo,Exclusión legal,"Aptitud baja,Aptitud media,Exclusión legal",Exclusión legal,No apta,Exclusión legal
+691,Tolima,Valle de San Juan,"Aptitud alta,Exclusión legal,No apta","Aptitud alta,Exclusión legal",Aptitud alta,Aptitud media,"No apta,Exclusión legal"
+692,Cundinamarca,Arbeláez,Aptitud alta,Exclusión legal,No apta,"Exclusión legal,Aptitud baja",Aptitud alta
+693,Valle del Cauca,Bugalagrande,Exclusión legal,Aptitud media,Aptitud alta,No apta,Exclusión legal
+694,Tolima,Flandes,Exclusión legal,Exclusión legal,Exclusión legal,No apta,Exclusión legal
+695,Valle del Cauca,Caicedonia,"Aptitud alta,Aptitud media","Aptitud baja,Exclusión legal",No apta,"Aptitud alta,Aptitud media",Exclusión legal
+696,Quindío,Pijao,No apta,No apta,No apta,No apta,No apta
+697,Cundinamarca,Nilo,"Aptitud media,No apta",Exclusión legal,Aptitud alta,No apta,Exclusión legal
+698,Cundinamarca,Tibacuy,"Aptitud media,No apta",No apta,Aptitud alta,Aptitud media,No apta
+699,Valle del Cauca,Zarzal,Exclusión legal,Exclusión legal,No apta,Aptitud alta,Exclusión legal
+700,Cundinamarca,Fusagasugá,No apta,Exclusión legal,"Aptitud alta,Aptitud media",No apta,"No apta,Exclusión legal"
+701,Cundinamarca,Agua de Dios,"Exclusión legal,No apta","Exclusión legal,No apta","No apta,Exclusión legal",Aptitud media,"No apta,Exclusión legal"
+702,Quindío,La Tebaida,Exclusión legal,"Aptitud media,Aptitud baja,Exclusión legal","Aptitud baja,Exclusión legal",No apta,Exclusión legal
+703,Cundinamarca,Silvania,No apta,No apta,No apta,"Aptitud baja,Exclusión legal",Aptitud alta
+704,Tolima,Coello,Exclusión legal,Exclusión legal,Exclusión legal,Aptitud alta,Exclusión legal
+705,Cundinamarca,Viotá,Aptitud media,Exclusión legal,Aptitud alta,Aptitud alta,"Aptitud media,No apta"
+706,Cundinamarca,Granada,"Aptitud media,Exclusión legal",Exclusión legal,"Aptitud baja,Exclusión legal","Exclusión legal,Aptitud baja","Aptitud baja,No apta"
+707,Meta,Granada,Exclusión legal,No apta,Exclusión legal,Aptitud media,Exclusión legal
+708,Antioquia,Granada,No apta,Exclusión legal,No apta,"No apta,Aptitud alta,Exclusión legal",Exclusión legal
+709,Valle del Cauca,La Victoria,Exclusión legal,Exclusión legal,No apta,"Exclusión legal,Aptitud media",Exclusión legal
+710,Boyacá,La Victoria,"Aptitud media,Exclusión legal","Exclusión legal,No apta",Aptitud alta,"No apta,Aptitud alta,Exclusión legal","Exclusión legal,No apta"
+711,Cundinamarca,Guataquí,Exclusión legal,Exclusión legal,Exclusión legal,Aptitud alta,Exclusión legal
+712,Tolima,Piedras,Exclusión legal,Aptitud media,Exclusión legal,Aptitud alta,Exclusión legal
+713,Cundinamarca,Apulo,Exclusión legal,Exclusión legal,Aptitud alta,Aptitud alta,Exclusión legal
+714,Vaupés,Mitú,No apta,Aptitud baja,Exclusión legal,Aptitud baja,No apta
+715,Amazonas,La Chorrera,Exclusión legal,Aptitud baja,Exclusión legal,Aptitud baja,Exclusión legal
+716,Amazonas,Santander (Araracuara),No apta,Aptitud baja,No apta,No apta,No apta
+717,Vaupés,Yavaraté (Corr. Departamental),No apta,"No apta,Aptitud baja",Exclusión legal,No apta,No apta
+718,Vaupés,Papunaua (Corr. Departamental),No apta,No apta,No apta,No apta,No apta
+719,Guaviare,Calamar,No apta,Aptitud baja,No apta,No apta,No apta
+720,Bolívar,Calamar,Exclusión legal,Exclusión legal,Exclusión legal,No apta,Exclusión legal
+721,Guainía,Paná Paná (Campo Alegre),No apta,No apta,No apta,No apta,No apta
+722,Chocó,Unión Panamericana (Las Ánimas),Exclusión legal,"Aptitud baja,Aptitud media",Exclusión legal,Exclusión legal,Exclusión legal
+723,Cundinamarca,Gutiérrez,Aptitud media,Exclusión legal,No apta,Aptitud baja,"Aptitud baja,Aptitud alta"
+724,Meta,El Calvario,Aptitud media,Exclusión legal,No apta,Aptitud alta,Aptitud baja
+725,Meta,Mapiripán,Exclusión legal,Aptitud baja,Exclusión legal,Aptitud media,Exclusión legal
+726,Meta,Puerto Lleras,Exclusión legal,Aptitud baja,Exclusión legal,Aptitud media,Exclusión legal
+727,Meta,Fuente de Oro,Exclusión legal,No apta,Exclusión legal,"Aptitud baja,Exclusión legal",Exclusión legal
+728,Santander,Los Santos,No apta,Exclusión legal,"Aptitud baja,Exclusión legal",Aptitud media,Exclusión legal
+729,Guainía,Barranco Mina,No apta,No apta,No apta,No apta,No apta
+730,Guainía,Cacahual,No apta,No apta,Exclusión legal,"No apta,Exclusión legal",No apta
+731,Meta,Castilla la Nueva,Exclusión legal,No apta,Exclusión legal,Aptitud alta,Exclusión legal
+732,Cundinamarca,Cáqueza,No apta,Exclusión legal,Aptitud alta,No apta,"Aptitud baja,No apta"
+733,Meta,San Carlos de Guaroa,Exclusión legal,No apta,Exclusión legal,Aptitud media,Exclusión legal
+734,Cundinamarca,Ubaque,"No apta,Aptitud alta",Exclusión legal,"Aptitud media,No apta","Exclusión legal,Aptitud baja","Aptitud alta,Aptitud media"
+735,Risaralda,Mistrató,No apta,No apta,No apta,No apta,No apta
+736,Chocó,Cértegui,Exclusión legal,Exclusión legal,Exclusión legal,Exclusión legal,Exclusión legal
+737,Cundinamarca,Guayabetal,Aptitud media,Exclusión legal,Aptitud alta,Aptitud baja,"Exclusión legal,No apta"
+738,Cundinamarca,Fosca,Aptitud alta,Exclusión legal,Aptitud alta,"No apta,Exclusión legal",Aptitud alta
+739,Cundinamarca,Facatativá,"Exclusión legal,No apta",Exclusión legal,Exclusión legal,No apta,No apta
+740,Cundinamarca,Quetame,"Aptitud alta,No apta,Exclusión legal",Exclusión legal,No apta,Aptitud media,Aptitud media
+741,Meta,Cumaral,"Exclusión legal,No apta",No apta,"Aptitud baja,Aptitud media",No apta,"No apta,Exclusión legal"
+742,Chocó,Medio Baudó (Boca de Pepe),No apta,"Aptitud baja,Exclusión legal",No apta,No apta,No apta
+743,Cundinamarca,Chipaque,"Aptitud alta,Exclusión legal",Exclusión legal,Exclusión legal,No apta,No apta
+744,Chocó,Nóvita,Exclusión legal,"No apta,Aptitud baja",Exclusión legal,Exclusión legal,Exclusión legal
+745,Caldas,Belalcázar,"Aptitud alta,Aptitud media",No apta,No apta,"Aptitud media,Exclusión legal",Exclusión legal
+746,Chocó,Río Iró,Exclusión legal,"Exclusión legal,No apta,Aptitud media",Exclusión legal,Exclusión legal,Exclusión legal
+747,Chocó,Condoto,Exclusión legal,"Aptitud baja,Aptitud media",Exclusión legal,Exclusión legal,Exclusión legal
+748,Antioquia,Sopetrán,Aptitud media,Aptitud media,Aptitud alta,Aptitud media,"Aptitud baja,Aptitud alta"
+749,Chocó,El Cantón del San Pablo (Managrú),No apta,No apta,No apta,No apta,No apta
+750,Chocó,Medio Atrato (Beté),Exclusión legal,Exclusión legal,Exclusión legal,Exclusión legal,Exclusión legal
+751,Valle del Cauca,Alcalá,"Exclusión legal,No apta",Aptitud baja,No apta,No apta,Exclusión legal
+752,Risaralda,La Virginia,Exclusión legal,No apta,"Aptitud media,Exclusión legal","Exclusión legal,Aptitud media,Aptitud alta",Exclusión legal
+753,Cundinamarca,Bituima,"Aptitud media,Exclusión legal","Exclusión legal,No apta",Aptitud alta,No apta,Exclusión legal
+754,Boyacá,Macanal,Aptitud baja,Exclusión legal,No apta,No apta,Aptitud media
+755,Antioquia,Heliconia,Aptitud media,Exclusión legal,Aptitud alta,"Aptitud baja,Aptitud alta",Exclusión legal
+756,Caldas,San José,No apta,"Aptitud alta,No apta",No apta,"Aptitud baja,Exclusión legal",Exclusión legal
+757,Santander,Oiba,No apta,Exclusión legal,Aptitud alta,No apta,Exclusión legal
+758,Santander,La Belleza,No apta,No apta,No apta,No apta,No apta
+759,Tolima,Anzoátegui,"No apta,Aptitud media",Exclusión legal,No apta,No apta,No apta
+760,Risaralda,Apía,"Aptitud alta,Exclusión legal",Exclusión legal,No apta,Aptitud baja,Exclusión legal
+761,Cundinamarca,Suesca,Exclusión legal,Exclusión legal,Exclusión legal,No apta,No apta
+762,Risaralda,Quinchía,"Aptitud alta,Exclusión legal",Exclusión legal,No apta,No apta,Exclusión legal
+763,Caldas,Filadelfia,"Aptitud alta,No apta","Aptitud baja,Aptitud alta,No apta",Aptitud alta,"Exclusión legal,Aptitud alta",Exclusión legal
+764,Caldas,Marmato,"Aptitud media,Aptitud baja",Exclusión legal,No apta,No apta,Exclusión legal
+765,Cundinamarca,Chocontá,Exclusión legal,Exclusión legal,Exclusión legal,No apta,No apta
+766,Caldas,Pácora,No apta,Exclusión legal,No apta,Aptitud media,Exclusión legal
+767,Sucre,Sampués,Exclusión legal,Exclusión legal,Exclusión legal,"Aptitud alta,Aptitud baja",Exclusión legal
+768,Cundinamarca,Villeta,Aptitud media,Exclusión legal,Aptitud alta,Aptitud media,Exclusión legal
+769,Cundinamarca,Albán,"Aptitud media,No apta",Exclusión legal,"Aptitud alta,Exclusión legal",Aptitud media,Aptitud alta
+770,Cundinamarca,Vergara,"Aptitud baja,No apta","Aptitud baja,No apta",No apta,No apta,Aptitud media
+771,Tolima,Fresno,No apta,Exclusión legal,Aptitud alta,Aptitud media,Exclusión legal
+772,Santander,Charta,"Aptitud baja,Exclusión legal",Exclusión legal,Aptitud alta,Aptitud media,No apta
+773,Tolima,Mariquita,Exclusión legal,No apta,Aptitud alta,No apta,Exclusión legal
+774,Tolima,Honda,"Exclusión legal,No apta",Aptitud media,No apta,Aptitud alta,"No apta,Exclusión legal"
+775,Tolima,Ambalema,Exclusión legal,Exclusión legal,Exclusión legal,Aptitud media,Exclusión legal
+776,Tolima,Lérida,Exclusión legal,Exclusión legal,Aptitud alta,Aptitud media,Exclusión legal
+777,Cundinamarca,San Juan de Rioseco,Aptitud media,Exclusión legal,No apta,Aptitud alta,Exclusión legal
+778,Cundinamarca,Chaguaní,Aptitud alta,"Exclusión legal,No apta",Aptitud alta,Aptitud media,"No apta,Exclusión legal"
+779,Cundinamarca,Topaipí,"Aptitud baja,No apta",Exclusión legal,No apta,No apta,Exclusión legal
+780,Cundinamarca,Quebradanegra,"Aptitud media,No apta","Aptitud baja,No apta",Aptitud alta,"Exclusión legal,Aptitud alta",Exclusión legal
+781,Cesar,Agustín Codazzi,No apta,No apta,Aptitud alta,No apta,No apta
+782,Cundinamarca,Nocaima,"No apta,Aptitud media,Aptitud alta","Exclusión legal,No apta",No apta,"Aptitud baja,Exclusión legal",Exclusión legal
+783,Cundinamarca,El Peñón,"No apta,Exclusión legal","Exclusión legal,No apta,Aptitud media",No apta,Aptitud media,Exclusión legal
+784,Santander,El Peñón,"Aptitud media,Aptitud alta",Exclusión legal,No apta,Aptitud baja,Exclusión legal
+785,Bolívar,El Peñón,"Exclusión legal,No apta",No apta,Exclusión legal,"Aptitud media,Exclusión legal","No apta,Exclusión legal"
+786,Tolima,Armero (Guayabal),Exclusión legal,No apta,Aptitud alta,Aptitud media,Exclusión legal
+787,Cundinamarca,Nimaima,"Aptitud baja,Exclusión legal",Exclusión legal,No apta,Aptitud media,Exclusión legal
+788,Cundinamarca,La Peña,"Aptitud baja,Exclusión legal",Exclusión legal,No apta,Aptitud alta,Exclusión legal
+789,Caldas,Victoria,Exclusión legal,Aptitud media,Aptitud alta,"No apta,Exclusión legal",Exclusión legal
+790,Cundinamarca,Útica,"Exclusión legal,No apta",Aptitud baja,"Aptitud alta,Exclusión legal","Aptitud baja,Exclusión legal","No apta,Exclusión legal"
+791,Quindío,Salento,No apta,Exclusión legal,No apta,No apta,Exclusión legal
+792,Cundinamarca,Gama,"Aptitud baja,Exclusión legal","No apta,Exclusión legal",No apta,No apta,"Aptitud alta,Exclusión legal"
+793,Cundinamarca,Caparrapí,"Aptitud media,No apta",Aptitud baja,No apta,Aptitud media,Exclusión legal
+794,Sucre,Guaranda,Exclusión legal,Aptitud media,Exclusión legal,Exclusión legal,Exclusión legal
+795,Caldas,Norcasia,Exclusión legal,"No apta,Aptitud media,Aptitud alta,Exclusión legal","No apta,Aptitud media",Aptitud alta,Exclusión legal
+796,Caldas,La Dorada,Exclusión legal,No apta,Exclusión legal,Aptitud media,Exclusión legal
+797,Antioquia,Montebello,No apta,"Aptitud media,Exclusión legal",Aptitud alta,"No apta,Aptitud media",Exclusión legal
+798,Cundinamarca,Puerto Salgar,Exclusión legal,Aptitud baja,Exclusión legal,No apta,Exclusión legal
+799,Antioquia,Tarso,"Aptitud alta,No apta","Aptitud media,No apta,Aptitud baja,Aptitud alta,Exclusión legal",Aptitud alta,No apta,"No apta,Exclusión legal"
+800,Antioquia,Zaragoza,Exclusión legal,No apta,Exclusión legal,Exclusión legal,Exclusión legal
+801,Cundinamarca,Yacopí,"No apta,Exclusión legal",Aptitud baja,No apta,No apta,Exclusión legal
+802,Antioquia,Amagá,"Aptitud baja,Exclusión legal",Exclusión legal,No apta,No apta,Exclusión legal
+803,Antioquia,Titiribí,"Aptitud baja,Exclusión legal",Exclusión legal,No apta,"No apta,Aptitud media",Exclusión legal
+804,Antioquia,Concordia,"Exclusión legal,Aptitud alta","Aptitud alta,No apta",No apta,No apta,"Aptitud media,No apta"
+805,Magdalena,Concordia,Exclusión legal,Exclusión legal,Exclusión legal,"Aptitud media,Exclusión legal",Exclusión legal
+806,Antioquia,Envigado,No apta,Exclusión legal,No apta,"Aptitud alta,Aptitud media",Exclusión legal
+807,Cundinamarca,Gachalá,Aptitud media,Exclusión legal,No apta,Aptitud media,"Aptitud baja,Aptitud media"
+808,Antioquia,Itagüí,No apta,No apta,No apta,No apta,No apta
+809,Antioquia,Sabaneta,No apta,No apta,"Aptitud baja,Aptitud media,Exclusión legal",No apta,"Aptitud media,Exclusión legal"
+810,Antioquia,Anorí,"Exclusión legal,Aptitud media","No apta,Aptitud media,Exclusión legal",No apta,"Aptitud baja,Exclusión legal",Exclusión legal
+811,Santander,Ocamonte,"Exclusión legal,No apta",Exclusión legal,No apta,Aptitud media,Exclusión legal
+812,Boyacá,Pajarito,Aptitud baja,Exclusión legal,Aptitud alta,Aptitud baja,Exclusión legal
+813,Cundinamarca,Tocancipá,Exclusión legal,Exclusión legal,Exclusión legal,"Exclusión legal,Aptitud media",No apta
+814,Santander,Mogotes,Aptitud baja,Exclusión legal,Aptitud alta,Aptitud baja,"No apta,Aptitud media"
+815,Boyacá,Viracachá,"Aptitud media,Exclusión legal",Exclusión legal,Exclusión legal,Aptitud alta,"Aptitud media,Exclusión legal"
+816,Cundinamarca,Simijaca,Aptitud media,Exclusión legal,"No apta,Exclusión legal",No apta,No apta
+817,Antioquia,Valdivia,Exclusión legal,"Aptitud baja,Aptitud media",No apta,Exclusión legal,Exclusión legal
+818,Boyacá,Santana,"No apta,Aptitud baja","Exclusión legal,No apta",Aptitud alta,No apta,"Exclusión legal,No apta"
+819,Norte de Santander,Bucarasica,"Aptitud media,Aptitud alta",Exclusión legal,Aptitud alta,Aptitud baja,"No apta,Aptitud media"
+820,Cesar,La Jagua de Ibirico,No apta,No apta,Aptitud alta,No apta,No apta
+821,Boyacá,Ráquira,"Aptitud alta,No apta",Exclusión legal,Exclusión legal,"Aptitud alta,Aptitud media",Aptitud alta
+822,Antioquia,Olaya,"Aptitud alta,No apta","Exclusión legal,Aptitud baja","Aptitud baja,Aptitud media",No apta,"No apta,Aptitud media"
+823,Sucre,Caimito,Exclusión legal,Exclusión legal,Exclusión legal,Aptitud alta,Exclusión legal
+824,Magdalena,Chibolo,Exclusión legal,No apta,Exclusión legal,"Aptitud baja,Aptitud media",Exclusión legal
+825,Cundinamarca,Fómeque,"Aptitud media,Aptitud alta","Exclusión legal,No apta",Exclusión legal,No apta,No apta
+826,Cundinamarca,Bojacá,"No apta,Aptitud media",Exclusión legal,"Aptitud media,Exclusión legal","Aptitud baja,Exclusión legal",No apta
+827,Antioquia,Puerto Nare,Exclusión legal,No apta,Exclusión legal,No apta,Exclusión legal
+828,Cundinamarca,Tenjo,Exclusión legal,Exclusión legal,Exclusión legal,Aptitud alta,"Aptitud media,Exclusión legal"
+829,Antioquia,Puerto Triunfo,Exclusión legal,No apta,Exclusión legal,No apta,Exclusión legal
+830,Antioquia,Carepa,Exclusión legal,No apta,Exclusión legal,"Aptitud alta,Exclusión legal",Exclusión legal
+831,Antioquia,Cisneros,No apta,No apta,No apta,No apta,No apta
+832,Antioquia,Maceo,Exclusión legal,Aptitud media,Aptitud alta,Aptitud media,Exclusión legal
+833,Antioquia,San Pedro de Urabá,"Exclusión legal,No apta","Aptitud baja,Aptitud media",Exclusión legal,Aptitud media,"No apta,Exclusión legal"
+834,Antioquia,Puerto Berrío,Exclusión legal,No apta,Exclusión legal,No apta,Exclusión legal
+835,Antioquia,Yalí,Exclusión legal,"Aptitud media,Aptitud alta",Aptitud alta,No apta,Exclusión legal
+836,Antioquia,Chigorodó,Exclusión legal,No apta,Exclusión legal,Exclusión legal,Exclusión legal
+837,Antioquia,Cáceres,Exclusión legal,No apta,Exclusión legal,Aptitud baja,Exclusión legal
+838,Sucre,Los Palmitos,Exclusión legal,Exclusión legal,Exclusión legal,"Exclusión legal,Aptitud baja",Exclusión legal
+839,Antioquia,Caucasia,Exclusión legal,No apta,Exclusión legal,Aptitud baja,Exclusión legal
+840,Antioquia,Tarazá,Exclusión legal,"Aptitud alta,Exclusión legal",Exclusión legal,Exclusión legal,Exclusión legal
+841,Cundinamarca,Tabio,Exclusión legal,Exclusión legal,Exclusión legal,No apta,"Aptitud alta,Exclusión legal"
+842,Córdoba,San José de Uré,Exclusión legal,Aptitud baja,Exclusión legal,No apta,Exclusión legal
+843,Magdalena,Plato,Exclusión legal,Aptitud baja,Exclusión legal,Aptitud baja,Exclusión legal
+844,Bolívar,San Jacinto del Cauca,No apta,Aptitud baja,No apta,No apta,No apta
+845,Córdoba,La Apartada,Exclusión legal,Aptitud baja,Exclusión legal,Aptitud media,Exclusión legal
+846,Córdoba,Ayapel,Exclusión legal,No apta,Exclusión legal,No apta,Exclusión legal
+847,Córdoba,Planeta Rica,Exclusión legal,No apta,Exclusión legal,No apta,Exclusión legal
+848,Córdoba,Pueblo Nuevo,Exclusión legal,Aptitud baja,Exclusión legal,Aptitud baja,Exclusión legal
+849,Boyacá,Sutatenza,"Aptitud media,Aptitud alta","Exclusión legal,No apta",Aptitud alta,"No apta,Aptitud media,Exclusión legal","Aptitud alta,No apta,Exclusión legal"
+850,Sucre,San Marcos,Exclusión legal,No apta,Exclusión legal,No apta,Exclusión legal
+851,Sucre,Majagual,Exclusión legal,Aptitud media,Exclusión legal,Exclusión legal,Exclusión legal
+852,Bolívar,Achí,Exclusión legal,Aptitud baja,Exclusión legal,Exclusión legal,Exclusión legal
+853,Córdoba,Ciénaga de Oro,Exclusión legal,Exclusión legal,Exclusión legal,No apta,Exclusión legal
+854,Santander,San Gil,"No apta,Aptitud baja","No apta,Exclusión legal",No apta,No apta,"No apta,Exclusión legal"
+855,Sucre,Galeras,Exclusión legal,Exclusión legal,Exclusión legal,Aptitud media,Exclusión legal
+856,Córdoba,San Pelayo,Exclusión legal,"No apta,Aptitud media",Exclusión legal,No apta,Exclusión legal
+857,Bolívar,Pinillos,Exclusión legal,"No apta,Aptitud media",Exclusión legal,Exclusión legal,Exclusión legal
+858,Córdoba,San Andrés de Sotavento,Exclusión legal,Exclusión legal,Exclusión legal,No apta,Exclusión legal
+859,Córdoba,Cotorra,Exclusión legal,Exclusión legal,Exclusión legal,No apta,Exclusión legal
+860,Boyacá,Mongua,No apta,No apta,No apta,No apta,No apta
+861,Sucre,El Roble,Exclusión legal,Exclusión legal,Exclusión legal,No apta,Exclusión legal
+862,Bolívar,San Fernando,Exclusión legal,No apta,Exclusión legal,"Aptitud baja,Exclusión legal",Exclusión legal
+863,Sucre,Ovejas,Exclusión legal,Exclusión legal,Exclusión legal,Aptitud media,Exclusión legal
+864,Córdoba,Tuchín,Exclusión legal,Exclusión legal,Exclusión legal,No apta,Exclusión legal
+865,Sucre,Morroa,Exclusión legal,Exclusión legal,Exclusión legal,No apta,Exclusión legal
+866,San Andrés Providencia y Santa Catalina,San Andres y  Providencia (Santa Isabel),No apta,No apta,No apta,No apta,No apta
+867,Sucre,Coveñas,No apta,No apta,No apta,"Exclusión legal,Aptitud alta",No apta
+868,Casanare,Monterrey,"Aptitud media,Aptitud baja,No apta",No apta,Aptitud alta,Aptitud alta,Exclusión legal
+869,Sucre,Chalán,Exclusión legal,Exclusión legal,Exclusión legal,No apta,Exclusión legal
+870,Magdalena,Santa Bárbara de Pinto,Exclusión legal,No apta,Exclusión legal,Aptitud baja,Exclusión legal
+871,Bolívar,El Carmen de Bolívar,Exclusión legal,Exclusión legal,No apta,Aptitud baja,Exclusión legal
+872,Bolívar,San Jacinto,Exclusión legal,Exclusión legal,Exclusión legal,Aptitud media,Exclusión legal
+873,Magdalena,Tenerife,Exclusión legal,No apta,Exclusión legal,"No apta,Aptitud media",Exclusión legal
+874,Antioquia,Yolombó,"No apta,Aptitud alta",Aptitud media,No apta,Aptitud media,Exclusión legal
+875,Boyacá,San Luis de Gaceno,Exclusión legal,Aptitud alta,No apta,Exclusión legal,Exclusión legal
+876,Bolívar,Mahates,Exclusión legal,"Aptitud baja,No apta,Aptitud media",Exclusión legal,"Aptitud media,Aptitud baja",Exclusión legal
+877,Bolívar,El Guamo,Exclusión legal,Exclusión legal,Exclusión legal,No apta,Exclusión legal
+878,Atlántico,Suan,Exclusión legal,Exclusión legal,Exclusión legal,"Exclusión legal,No apta",Exclusión legal
+879,Norte de Santander,Cucutilla,"No apta,Aptitud alta",Exclusión legal,Aptitud alta,Aptitud alta,Exclusión legal
+880,Magdalena,Pedraza,Exclusión legal,Exclusión legal,Exclusión legal,Aptitud baja,Exclusión legal
+881,Bolívar,Turbaná,No apta,No apta,No apta,No apta,No apta
+882,Bolívar,Arroyohondo,Exclusión legal,Exclusión legal,Exclusión legal,"Aptitud alta,Aptitud baja",Exclusión legal
+883,Magdalena,Cerro de San Antonio,Exclusión legal,Exclusión legal,Exclusión legal,"Aptitud baja,Aptitud alta",Exclusión legal
+884,Bolívar,Turbaco,Exclusión legal,Exclusión legal,No apta,No apta,Exclusión legal
+885,Magdalena,El Piñón,Exclusión legal,Exclusión legal,Exclusión legal,No apta,Exclusión legal
+886,Bolívar,San Estanislao,Exclusión legal,Exclusión legal,No apta,Aptitud media,Exclusión legal
+887,Atlántico,Santa Lucía,Exclusión legal,Exclusión legal,No apta,No apta,Exclusión legal
+888,Bolívar,San Cristóbal,Exclusión legal,Exclusión legal,Exclusión legal,No apta,Exclusión legal
+889,Atlántico,Campo de la Cruz,Exclusión legal,Exclusión legal,Exclusión legal,Aptitud media,Exclusión legal
+890,Atlántico,Manatí,Exclusión legal,Exclusión legal,Exclusión legal,Aptitud media,Exclusión legal
+891,Norte de Santander,Chinácota,"No apta,Aptitud baja","No apta,Exclusión legal",Aptitud alta,Aptitud media,No apta
+892,Atlántico,Santo Tomás,Exclusión legal,Exclusión legal,Exclusión legal,No apta,Exclusión legal
+893,Atlántico,Luruaco,Exclusión legal,Exclusión legal,Exclusión legal,No apta,Exclusión legal
+894,Atlántico,Palmar de Varela,Exclusión legal,Exclusión legal,Exclusión legal,Aptitud baja,Exclusión legal
+895,Cundinamarca,Ubaté,"Aptitud media,No apta",Exclusión legal,Exclusión legal,Aptitud media,No apta
+896,Atlántico,Polonuevo,Exclusión legal,Exclusión legal,No apta,"Aptitud media,Aptitud baja",Exclusión legal
+897,Atlántico,Piojó,No apta,Exclusión legal,Exclusión legal,No apta,No apta
+898,Atlántico,Baranoa,"Exclusión legal,No apta","No apta,Exclusión legal",No apta,No apta,"No apta,Exclusión legal"
+899,Atlántico,Galapa,Exclusión legal,Exclusión legal,No apta,No apta,Exclusión legal
+900,Magdalena,Sitionuevo,No apta,No apta,No apta,No apta,No apta
+901,Cundinamarca,Chía,"Aptitud alta,Aptitud media,Aptitud baja","No apta,Exclusión legal",No apta,No apta,No apta
+902,Boyacá,Chivor,No apta,No apta,No apta,No apta,"Exclusión legal,Aptitud media"
+903,Cundinamarca,Sopó,"Aptitud media,No apta",Exclusión legal,Exclusión legal,No apta,No apta
+904,Casanare,Chámeza,"No apta,Exclusión legal",No apta,No apta,"No apta,Aptitud media",Exclusión legal
+905,Norte de Santander,Gramalote,No apta,"No apta,Exclusión legal",Aptitud alta,No apta,No apta
+906,Cundinamarca,Cajicá,Exclusión legal,Exclusión legal,No apta,No apta,No apta
+907,Boyacá,Somondoco,"Aptitud media,Aptitud alta","Exclusión legal,No apta",Aptitud alta,Aptitud media,"Aptitud alta,Aptitud baja,Exclusión legal"
+908,Magdalena,San Sebastián de Buenavista,Exclusión legal,"Aptitud baja,Exclusión legal",Exclusión legal,Aptitud media,Exclusión legal
+909,Boyacá,Guateque,No apta,"Exclusión legal,No apta",Aptitud alta,"Aptitud baja,Exclusión legal","Exclusión legal,Aptitud media,No apta"
+910,Cundinamarca,Gachancipá,Exclusión legal,Exclusión legal,Exclusión legal,No apta,"Exclusión legal,Aptitud baja"
+911,Casanare,Recetor,Aptitud media,"Aptitud alta,No apta",No apta,"No apta,Aptitud alta",Exclusión legal
+912,Cundinamarca,Zipaquirá,Exclusión legal,Exclusión legal,Exclusión legal,No apta,No apta
+913,Cundinamarca,Madrid,Exclusión legal,Exclusión legal,Exclusión legal,No apta,No apta
+914,Boyacá,Páez,Aptitud baja,Exclusión legal,Aptitud alta,Aptitud media,Exclusión legal
+915,Santander,San Joaquín,"Aptitud alta,Exclusión legal",Exclusión legal,No apta,Aptitud baja,Aptitud media
+916,Boyacá,Pachavita,"Aptitud baja,Aptitud alta",Exclusión legal,"Aptitud media,Aptitud baja","Exclusión legal,Aptitud alta","Aptitud media,Exclusión legal"
+917,Boyacá,Chinavita,No apta,No apta,Aptitud alta,No apta,No apta
+918,Cesar,Aguachica,Exclusión legal,Aptitud media,Aptitud alta,Aptitud media,Exclusión legal
+919,Boyacá,Berbeo,"Aptitud baja,Exclusión legal",Exclusión legal,Aptitud alta,"Aptitud media,Exclusión legal",Exclusión legal
+920,Cundinamarca,Cucunubá,"Aptitud media,Exclusión legal",Exclusión legal,Exclusión legal,No apta,No apta
+921,Cundinamarca,Sutatausa,"No apta,Exclusión legal",Exclusión legal,Exclusión legal,Aptitud media,"No apta,Aptitud alta"
+922,Cundinamarca,Villapinzón,"Aptitud media,No apta",Exclusión legal,Exclusión legal,No apta,No apta
+923,Boyacá,Turmequé,Aptitud alta,Exclusión legal,Exclusión legal,Aptitud media,"Aptitud media,Aptitud alta"
+924,Casanare,Aguazul,"Exclusión legal,No apta","Aptitud baja,Exclusión legal",No apta,"No apta,Aptitud baja",Exclusión legal
+925,Boyacá,Pisba,Aptitud baja,Exclusión legal,Aptitud alta,Aptitud baja,Exclusión legal
+926,Santander,Cepitá,"Exclusión legal,No apta","Exclusión legal,No apta",Aptitud alta,"Aptitud baja,Aptitud media,No apta","Exclusión legal,No apta"
+927,Santander,Hato,Aptitud media,Exclusión legal,Aptitud alta,Aptitud media,Exclusión legal
+928,Cundinamarca,Lenguazaque,No apta,Exclusión legal,Exclusión legal,No apta,No apta
+929,Boyacá,Sutamarchán,"Aptitud alta,Aptitud baja,No apta",Exclusión legal,"No apta,Exclusión legal",No apta,"Exclusión legal,Aptitud baja"
+930,Boyacá,Jenesano,No apta,No apta,"Aptitud alta,Aptitud media","Aptitud baja,Exclusión legal",No apta
+931,Boyacá,Chiquinquirá,No apta,Exclusión legal,No apta,No apta,No apta
+932,Norte de Santander,Cácota,"Aptitud alta,Exclusión legal",Exclusión legal,No apta,No apta,No apta
+933,Boyacá,Ciénega,"Aptitud media,Aptitud alta",No apta,Exclusión legal,No apta,"Aptitud alta,Exclusión legal"
+934,Cundinamarca,Guachetá,Exclusión legal,Exclusión legal,Exclusión legal,No apta,"Aptitud media,Exclusión legal"
+935,Cundinamarca,Fúquene,Exclusión legal,Exclusión legal,Exclusión legal,"No apta,Exclusión legal,Aptitud alta",No apta
+936,Boyacá,Tinjacá,"Aptitud alta,Exclusión legal",Exclusión legal,Exclusión legal,"No apta,Aptitud media",No apta
+937,Boyacá,Busbanzá,"Aptitud media,No apta","Exclusión legal,No apta",Exclusión legal,No apta,"Aptitud baja,Aptitud media,No apta"
+938,Boyacá,Muzo,"Aptitud baja,No apta",No apta,"Aptitud baja,Aptitud media","No apta,Aptitud baja",No apta
+939,Boyacá,Sora,"Aptitud alta,No apta",Exclusión legal,Exclusión legal,"Aptitud media,No apta,Exclusión legal","Aptitud alta,Aptitud media"
+940,Boyacá,Tununguá,Aptitud baja,"Exclusión legal,No apta",Aptitud alta,"Exclusión legal,Aptitud baja","No apta,Exclusión legal"
+941,Boyacá,Cuítiva,Exclusión legal,Exclusión legal,Exclusión legal,"Exclusión legal,Aptitud baja,Aptitud alta","Exclusión legal,Aptitud alta"
+942,Boyacá,Sáchica,"Exclusión legal,No apta","Exclusión legal,No apta",Exclusión legal,Aptitud media,"No apta,Exclusión legal"
+943,Boyacá,Chivatá,Aptitud media,Exclusión legal,"No apta,Exclusión legal",Aptitud alta,No apta
+944,Antioquia,Frontino,No apta,No apta,No apta,No apta,No apta
+945,Boyacá,Iza,"Aptitud media,No apta",Exclusión legal,Exclusión legal,Aptitud alta,No apta
+946,Boyacá,Gachantivá,Aptitud alta,Exclusión legal,"No apta,Exclusión legal",Aptitud media,"No apta,Aptitud alta"
+947,Boyacá,Maripí,"Aptitud baja,No apta",Exclusión legal,Aptitud alta,"No apta,Aptitud alta","No apta,Exclusión legal"
+948,Boyacá,Oicatá,Aptitud media,"Exclusión legal,No apta",Exclusión legal,Aptitud media,No apta
+949,Boyacá,Santa Sofía,No apta,Exclusión legal,Exclusión legal,"No apta,Aptitud media",No apta
+950,Boyacá,Chitaraque,"Aptitud media,Aptitud baja","Exclusión legal,No apta",Aptitud alta,No apta,Aptitud media
+951,Boyacá,San Pablo de Borbur,"Aptitud baja,No apta",Exclusión legal,Aptitud alta,"Exclusión legal,Aptitud media",Exclusión legal
+952,Boyacá,Monguí,No apta,Exclusión legal,Exclusión legal,"Aptitud alta,Exclusión legal",No apta
+953,Boyacá,Tópaga,No apta,Exclusión legal,Exclusión legal,No apta,"Aptitud baja,Aptitud alta"
+954,Boyacá,Pauna,"Aptitud alta,Aptitud baja","No apta,Exclusión legal",Aptitud alta,Aptitud media,"No apta,Aptitud baja"
+955,Boyacá,Tibasosa,Aptitud media,Exclusión legal,Exclusión legal,"Aptitud alta,Aptitud media",No apta
+956,Boyacá,Cómbita,Aptitud alta,Exclusión legal,No apta,Aptitud alta,"Aptitud media,Aptitud alta"
+957,Santander,Florián,No apta,"Exclusión legal,No apta",Aptitud alta,"Aptitud media,Aptitud alta",Aptitud media
+958,Boyacá,Sotaquirá,"Exclusión legal,Aptitud alta",Exclusión legal,No apta,No apta,No apta
+959,Boyacá,Gámeza,Exclusión legal,Exclusión legal,Exclusión legal,Exclusión legal,"Aptitud alta,Aptitud baja"
+960,Santander,Puente Nacional,No apta,Exclusión legal,No apta,"Exclusión legal,Aptitud baja",No apta
+961,Boyacá,Betéitiva,"Aptitud baja,Exclusión legal",Exclusión legal,No apta,No apta,No apta
+962,Boyacá,Cerinza,No apta,Exclusión legal,Exclusión legal,"Aptitud alta,Exclusión legal",No apta
+963,Boyacá,Santa Rosa de Viterbo,"Aptitud media,Exclusión legal",No apta,No apta,No apta,No apta
+964,Santander,Güepsa,"Aptitud media,Exclusión legal",Exclusión legal,No apta,Aptitud media,Exclusión legal
+965,Boyacá,Susacón,No apta,Exclusión legal,No apta,"Exclusión legal,Aptitud baja",No apta
+966,Boyacá,Sativasur,"Exclusión legal,Aptitud alta",Exclusión legal,Exclusión legal,Exclusión legal,Exclusión legal
+967,Boyacá,Tutazá,No apta,Exclusión legal,Exclusión legal,Aptitud media,No apta
+968,Santander,Chipatá,"Aptitud alta,No apta","Exclusión legal,No apta","Aptitud media,Aptitud alta","Aptitud baja,Aptitud media","Exclusión legal,No apta"
+969,Boyacá,Chita,"Aptitud media,Exclusión legal",Exclusión legal,No apta,"Aptitud baja,Aptitud media",No apta
+970,Santander,San Benito,"Aptitud media,No apta",Exclusión legal,No apta,"Aptitud baja,Exclusión legal",Exclusión legal
+971,Boyacá,Sativanorte,"Exclusión legal,Aptitud alta",Exclusión legal,Exclusión legal,Aptitud alta,Exclusión legal
+972,Tolima,Alvarado,Exclusión legal,Aptitud media,Aptitud alta,Aptitud alta,Exclusión legal
+973,Santander,Aguada,"Aptitud alta,Aptitud baja","Exclusión legal,No apta",No apta,Aptitud alta,"No apta,Exclusión legal"
+974,Santander,Contratación,Aptitud media,Exclusión legal,"Exclusión legal,Aptitud baja",Exclusión legal,Exclusión legal
+975,Santander,Guapotá,"Exclusión legal,No apta","Exclusión legal,No apta",No apta,No apta,"No apta,Exclusión legal"
+976,Boyacá,Boavita,Aptitud baja,"Exclusión legal,No apta",No apta,"No apta,Aptitud alta","No apta,Aptitud alta"
+977,Santander,Confines,No apta,No apta,Aptitud alta,No apta,No apta
+978,Santander,Palmas del Socorro,"Exclusión legal,No apta","Exclusión legal,No apta",No apta,No apta,"No apta,Exclusión legal"
+979,Boyacá,El Cocuy,No apta,No apta,No apta,No apta,Aptitud alta
+980,Santander,Valle de San José,"Exclusión legal,Aptitud baja","No apta,Exclusión legal",No apta,No apta,"No apta,Exclusión legal"
+981,Santander,Curití,"Aptitud baja,Exclusión legal",Exclusión legal,Aptitud alta,"Aptitud media,Aptitud baja",Exclusión legal
+982,Boyacá,Covarachía,Aptitud media,Exclusión legal,No apta,"No apta,Aptitud alta",Aptitud alta
+983,Santander,Pinchote,"Exclusión legal,No apta",Exclusión legal,No apta,Aptitud alta,Exclusión legal
+984,Santander,Palmar,"Exclusión legal,No apta","Exclusión legal,No apta",Aptitud alta,"Exclusión legal,No apta","No apta,Exclusión legal"
+985,Valle del Cauca,Toro,Exclusión legal,Exclusión legal,No apta,Exclusión legal,Exclusión legal
+986,Casanare,San Luis de Palenque,Exclusión legal,No apta,Exclusión legal,Aptitud baja,Exclusión legal
+987,Santander,San José de Miranda,No apta,Exclusión legal,"No apta,Aptitud baja","No apta,Aptitud media","Aptitud baja,Exclusión legal"
+988,Santander,Carcasí,"Aptitud baja,Exclusión legal",No apta,No apta,No apta,No apta
+989,Santander,Barichara,"Exclusión legal,Aptitud alta",Exclusión legal,No apta,Aptitud alta,Exclusión legal
+990,Santander,Jordán,"Exclusión legal,No apta","Exclusión legal,No apta",Aptitud alta,"Aptitud media,No apta,Exclusión legal","No apta,Exclusión legal"
+991,Norte de Santander,El Zulia,"Aptitud media,No apta",Aptitud media,Aptitud alta,No apta,Exclusión legal
+992,Santander,Puerto Parra,No apta,No apta,No apta,No apta,No apta
+993,Santander,Aratoca,No apta,Exclusión legal,Aptitud alta,No apta,Exclusión legal
+994,Santander,Tona,"Aptitud alta,Exclusión legal",No apta,Aptitud alta,Aptitud media,No apta
+995,Norte de Santander,La Esperanza,"Aptitud baja,No apta",No apta,Aptitud alta,Aptitud baja,Exclusión legal
+996,Norte de Santander,Silos,"Aptitud baja,Exclusión legal",Exclusión legal,Exclusión legal,No apta,No apta
+997,Casanare,Trinidad,Exclusión legal,No apta,Exclusión legal,Aptitud media,Exclusión legal
+998,Arauca,Puerto Rondón,Exclusión legal,No apta,Exclusión legal,No apta,Exclusión legal
+999,Casanare,Pore,"Exclusión legal,No apta",Aptitud alta,Exclusión legal,"Aptitud baja,Exclusión legal","No apta,Exclusión legal"
+1000,Santander,Lebrija,Exclusión legal,Aptitud media,No apta,No apta,Exclusión legal
+1001,Santander,Vetas,"Aptitud baja,Exclusión legal",No apta,"Aptitud baja,Aptitud media",No apta,"Aptitud media,Exclusión legal"
+1002,Norte de Santander,Mutiscua,"Aptitud media,Aptitud baja",No apta,Exclusión legal,No apta,No apta
+1003,Norte de Santander,La Playa,Aptitud baja,"Exclusión legal,No apta",Aptitud alta,"No apta,Aptitud baja","No apta,Exclusión legal"
+1004,Santander,El Playón,"Aptitud media,Aptitud alta",Exclusión legal,Aptitud alta,Aptitud media,Aptitud baja
+1005,Norte de Santander,Durania,Aptitud alta,No apta,Aptitud alta,"Aptitud baja,Aptitud media",No apta
+1006,Santander,Sabana de Torres,Exclusión legal,No apta,Exclusión legal,No apta,Exclusión legal
+1007,Cesar,Río de Oro,Exclusión legal,Aptitud alta,Aptitud alta,No apta,Exclusión legal
+1008,Norte de Santander,Salazar,No apta,Exclusión legal,Aptitud alta,No apta,Aptitud media
+1009,Norte de Santander,Los Patios,Exclusión legal,Exclusión legal,Aptitud alta,"No apta,Exclusión legal",Exclusión legal
+1010,Norte de Santander,Villa Caro,Aptitud media,Exclusión legal,Aptitud alta,Aptitud media,No apta
+1011,Norte de Santander,Lourdes,Aptitud media,Exclusión legal,Aptitud alta,Aptitud media,"Aptitud media,Aptitud baja,Exclusión legal"
+1012,Santander,Puerto Wilches,Exclusión legal,Aptitud media,Exclusión legal,No apta,Exclusión legal
+1013,Norte de Santander,Puerto Santander,No apta,No apta,Exclusión legal,No apta,No apta
+1014,Norte de Santander,Sardinata,"Aptitud media,No apta",No apta,Aptitud alta,Aptitud media,Exclusión legal
+1015,Cesar,González,Exclusión legal,Exclusión legal,Aptitud alta,"No apta,Aptitud baja",Exclusión legal
+1016,Norte de Santander,San Calixto,No apta,No apta,Aptitud alta,Aptitud media,No apta
+1017,Norte de Santander,Hacarí,"Exclusión legal,No apta","Exclusión legal,No apta",Aptitud alta,"Aptitud alta,Exclusión legal","No apta,Exclusión legal"
+1018,Cesar,La Gloria,No apta,No apta,Aptitud alta,No apta,No apta
+1019,Norte de Santander,Convención,No apta,No apta,Aptitud alta,No apta,No apta
+1020,Norte de Santander,El Tarra,No apta,No apta,No apta,No apta,No apta
+1021,Bolívar,Regidor,Exclusión legal,No apta,Exclusión legal,"No apta,Aptitud baja,Exclusión legal",Exclusión legal
+1022,Cesar,Tamalameque,Exclusión legal,Aptitud media,Exclusión legal,Aptitud media,Exclusión legal
+1023,Cesar,Becerrill,No apta,"Aptitud media,Exclusión legal",No apta,No apta,No apta
+1024,Cesar,Pelaya,Exclusión legal,Aptitud alta,Exclusión legal,No apta,Exclusión legal
+1025,Bolívar,San Martin de Loba,Exclusión legal,No apta,Exclusión legal,No apta,Exclusión legal
+1026,Norte de Santander,Tibú,No apta,No apta,Exclusión legal,Exclusión legal,No apta
+1027,Valle del Cauca,Ansermanuevo,Aptitud media,Exclusión legal,No apta,"No apta,Exclusión legal",Exclusión legal
+1028,Vichada,Puerto Carreño,No apta,Aptitud baja,Exclusión legal,Aptitud media,No apta
+1029,Cesar,Astrea,Exclusión legal,Aptitud baja,Exclusión legal,No apta,Exclusión legal
+1030,Cesar,Bosconia,Exclusión legal,No apta,Exclusión legal,No apta,Exclusión legal
+1031,Cesar,El Paso,Exclusión legal,Aptitud baja,Exclusión legal,No apta,Exclusión legal
+1032,Córdoba,Valencia,Exclusión legal,Aptitud alta,Exclusión legal,No apta,Exclusión legal
+1033,Cesar,San Diego,Exclusión legal,Exclusión legal,Aptitud alta,Aptitud alta,Exclusión legal
+1034,Cesar,Manaure Balcón del Cesar,"Aptitud baja,Aptitud media",No apta,Aptitud alta,No apta,No apta
+1035,La Guajira,La Jagua del Pilar,Exclusión legal,Exclusión legal,Aptitud alta,"Aptitud alta,Exclusión legal",Exclusión legal
+1036,La Guajira,El Molino,No apta,No apta,No apta,No apta,No apta
+1037,Valle del Cauca,El Cairo,No apta,No apta,No apta,No apta,No apta
+1038,La Guajira,Fonseca,No apta,Exclusión legal,Aptitud alta,Aptitud media,No apta
+1039,La Guajira,Distracción,Exclusión legal,Exclusión legal,No apta,Aptitud alta,Exclusión legal
+1040,La Guajira,Hato Nuevo,No apta,No apta,No apta,No apta,No apta
+1041,Caquetá,Solano,No apta,No apta,No apta,No apta,No apta
+1042,Córdoba,Los Córdobas,No apta,No apta,Exclusión legal,No apta,No apta
+1043,Cundinamarca,Jerusalén,"Exclusión legal,No apta","Exclusión legal,No apta",Aptitud alta,Aptitud alta,"No apta,Exclusión legal"
+1044,Cundinamarca,Choachí,No apta,Exclusión legal,No apta,No apta,No apta
+1045,Cundinamarca,La Mesa,"Aptitud media,Aptitud alta,Aptitud baja",Exclusión legal,No apta,No apta,Exclusión legal
+1046,Chocó,Sipí,Exclusión legal,Exclusión legal,Exclusión legal,"Aptitud alta,Aptitud media",Exclusión legal
+1047,Magdalena,Santa Ana,Exclusión legal,No apta,Exclusión legal,No apta,Exclusión legal
+1048,Cundinamarca,Medina,Exclusión legal,Aptitud alta,No apta,Exclusión legal,"Aptitud media,No apta"
+1049,Cundinamarca,Paratebueno,Exclusión legal,Aptitud alta,No apta,Aptitud alta,Exclusión legal
+1050,Meta,Barranca de Upía,Exclusión legal,"No apta,Aptitud alta",Exclusión legal,Aptitud media,Exclusión legal
+1051,Chocó,Medio San Juan (Andagoya),Exclusión legal,Aptitud media,Exclusión legal,Exclusión legal,Exclusión legal
+1052,Cundinamarca,La Calera,"Aptitud alta,Aptitud media",Exclusión legal,Exclusión legal,No apta,No apta
+1053,Meta,Puerto Gaitán,Exclusión legal,Aptitud baja,Exclusión legal,Aptitud media,Exclusión legal
+1054,Casanare,Maní,Exclusión legal,No apta,Exclusión legal,Aptitud alta,Exclusión legal
+1055,Chocó,San José del Palmar,Exclusión legal,Exclusión legal,No apta,Exclusión legal,Exclusión legal
+1056,Chocó,Tadó,Exclusión legal,Exclusión legal,Exclusión legal,Exclusión legal,Exclusión legal
+1057,Chocó,Bagadó,Exclusión legal,Exclusión legal,Exclusión legal,Exclusión legal,Exclusión legal
+1058,Antioquia,Murindó,No apta,"Aptitud media,Exclusión legal",Exclusión legal,No apta,No apta
+1059,Chocó,Carmen del Darién  (Curbaradó),Exclusión legal,Aptitud baja,Exclusión legal,Exclusión legal,Exclusión legal
+1060,Tolima,Casabianca,Aptitud media,Exclusión legal,Aptitud alta,Aptitud media,"No apta,Exclusión legal"
+1061,Antioquia,Betania,Aptitud baja,"Exclusión legal,No apta",No apta,No apta,Exclusión legal
+1062,Antioquia,La Pintada,Exclusión legal,"No apta,Exclusión legal",No apta,"Aptitud baja,Exclusión legal",Exclusión legal
+1063,Antioquia,Hispania,Aptitud media,"Aptitud baja,Exclusión legal","Aptitud baja,Exclusión legal",No apta,"Exclusión legal,No apta"
+1064,Magdalena,Pivijay,Exclusión legal,Exclusión legal,Exclusión legal,Aptitud media,Exclusión legal
+1065,Cundinamarca,Beltrán,Exclusión legal,Exclusión legal,Aptitud alta,Aptitud alta,Exclusión legal
+1066,Cundinamarca,Pulí,Aptitud media,Exclusión legal,Aptitud alta,"Aptitud media,Aptitud alta",Exclusión legal
+1067,Cundinamarca,Quipile,No apta,"No apta,Exclusión legal",No apta,No apta,"No apta,Exclusión legal"
+1068,Tolima,Venadillo,"No apta,Aptitud baja",Exclusión legal,Aptitud alta,No apta,Exclusión legal
+1069,Cundinamarca,El Rosal,Exclusión legal,Exclusión legal,Exclusión legal,Aptitud alta,No apta
+1070,Boyacá,Quípama,Aptitud baja,Exclusión legal,Aptitud alta,"No apta,Aptitud media",Exclusión legal
+1071,Cundinamarca,Villagómez,No apta,"Exclusión legal,No apta",No apta,"Aptitud baja,Exclusión legal",Aptitud media
+1072,Antioquia,Cocorná,"No apta,Aptitud alta",Aptitud media,No apta,Aptitud alta,No apta
+1073,Antioquia,Santo Domingo,No apta,"Aptitud alta,Exclusión legal",No apta,Exclusión legal,Exclusión legal
+1074,Antioquia,Buriticá,Aptitud baja,Exclusión legal,Aptitud alta,Aptitud media,Exclusión legal
+1075,Santander,Cimitarra,Exclusión legal,Aptitud baja,Exclusión legal,No apta,Exclusión legal
+1076,Antioquia,Amalfi,Aptitud media,"No apta,Exclusión legal",No apta,Aptitud media,Exclusión legal
+1077,Bolívar,Magangué,Exclusión legal,Exclusión legal,Exclusión legal,No apta,Exclusión legal
+1078,Córdoba,Moñitos,No apta,Exclusión legal,Exclusión legal,No apta,No apta
+1079,Bolívar,Simití,Exclusión legal,Aptitud baja,Exclusión legal,No apta,Exclusión legal
+1080,Sucre,Sincé,Exclusión legal,Exclusión legal,Exclusión legal,No apta,Exclusión legal
+1081,Bolívar,Arenal,No apta,No apta,"No apta,Aptitud media",Aptitud baja,No apta
+1082,Bolívar,Tiquisio (Puerto Rico),No apta,Aptitud baja,No apta,No apta,No apta
+1083,Bolívar,Altos del Rosario,Exclusión legal,Aptitud baja,Exclusión legal,Aptitud baja,Exclusión legal
+1084,Sucre,Corozal,Exclusión legal,Exclusión legal,Exclusión legal,No apta,Exclusión legal
+1085,Bolívar,Margarita,Exclusión legal,Exclusión legal,Exclusión legal,Exclusión legal,Exclusión legal
+1086,Bolívar,Cicuco,Exclusión legal,Exclusión legal,Exclusión legal,No apta,Exclusión legal
+1087,Córdoba,Purísima,Exclusión legal,Exclusión legal,Exclusión legal,"Aptitud baja,Exclusión legal",Exclusión legal
+1088,Córdoba,San Bernardo del Viento,No apta,Exclusión legal,Exclusión legal,No apta,No apta
+1089,Sucre,San Juan de Betulia (Betulia),Exclusión legal,Exclusión legal,Exclusión legal,No apta,Exclusión legal
+1090,Magdalena,San Zenón,Exclusión legal,No apta,Exclusión legal,No apta,Exclusión legal
+1091,Magdalena,Nueva Granada,Exclusión legal,No apta,Exclusión legal,Aptitud baja,Exclusión legal
+1092,Magdalena,Pijiño  del Carmen,Exclusión legal,Aptitud baja,Exclusión legal,No apta,Exclusión legal
+1093,Magdalena,Ariguaní (El Difícil),Exclusión legal,Aptitud baja,Exclusión legal,No apta,Exclusión legal
+1094,Magdalena,Ciénaga,No apta,No apta,Aptitud alta,Aptitud media,No apta
+1095,Magdalena,Zona Bananera,Exclusión legal,Exclusión legal,"Aptitud baja,No apta",No apta,Exclusión legal
+1096,Arauca,Arauquita,No apta,No apta,Exclusión legal,No apta,No apta
+1097,Casanare,Paz de Ariporo,Exclusión legal,No apta,Exclusión legal,Aptitud media,Exclusión legal
+1098,Santander,Zapatoca,No apta,Exclusión legal,No apta,Aptitud media,"No apta,Exclusión legal"
+1099,Santander,Cerrito,"Aptitud media,No apta",Exclusión legal,No apta,No apta,No apta
+1100,Boyacá,Paya,"Exclusión legal,No apta","Aptitud baja,No apta",Aptitud alta,"Aptitud alta,Exclusión legal","Exclusión legal,No apta"
+1101,Casanare,Támara,"Aptitud baja,No apta",Aptitud media,Aptitud alta,Aptitud baja,Exclusión legal
+1102,Santander,San Vicente de Chucurí,No apta,Aptitud media,Aptitud alta,Aptitud media,Exclusión legal
+1103,Santander,Barrancabermeja,Exclusión legal,Aptitud baja,Exclusión legal,No apta,Exclusión legal
+1104,Casanare,Orocué,"Exclusión legal,No apta",Aptitud media,Exclusión legal,Aptitud media,"No apta,Exclusión legal"
+1105,Vichada,Santa Rosalía,Exclusión legal,No apta,Exclusión legal,Aptitud media,Exclusión legal
+1106,Casanare,Nunchía,"Exclusión legal,No apta",No apta,Aptitud alta,Aptitud media,"No apta,Exclusión legal"
+1107,Casanare,Hato Corozal,Exclusión legal,No apta,Exclusión legal,Aptitud media,Exclusión legal
+1108,Boyacá,Güicán,"Aptitud media,Exclusión legal",No apta,No apta,No apta,"No apta,Aptitud media"
+1109,Arauca,Arauca,No apta,No apta,No apta,Aptitud media,No apta
+1110,Santander,Girón,Exclusión legal,"No apta,Aptitud media",No apta,Aptitud alta,Exclusión legal
+1111,Bolívar,Cantagallo,"Exclusión legal,No apta","Aptitud baja,Aptitud media",Exclusión legal,"Exclusión legal,Aptitud media","No apta,Exclusión legal"
+1112,Bolívar,Norosí,Exclusión legal,"Aptitud baja,Exclusión legal",Exclusión legal,"No apta,Aptitud baja",Exclusión legal
+1113,Magdalena,El Banco,Exclusión legal,No apta,Exclusión legal,No apta,Exclusión legal
+1114,Cesar,Chimichagua,Exclusión legal,Aptitud baja,Exclusión legal,Aptitud media,Exclusión legal
+1115,Cesar,Chiriguaná,No apta,No apta,Aptitud alta,No apta,No apta
+1116,Arauca,Cravo Norte,No apta,No apta,"No apta,Exclusión legal",No apta,No apta
+1117,Huila,Altamira,No apta,Aptitud baja,No apta,No apta,No apta
+1118,Antioquia,Caracolí,No apta,"No apta,Aptitud media","Aptitud media,Exclusión legal","Aptitud alta,Exclusión legal",No apta
+1119,Bolívar,Soplaviento,No apta,No apta,Exclusión legal,"Aptitud media,No apta",No apta
+1120,Atlántico,Usiacurí,No apta,No apta,Exclusión legal,Aptitud media,No apta
+1121,Amazonas,Mirití-Paraná (Campoamor),Exclusión legal,"No apta,Aptitud baja",Exclusión legal,Exclusión legal,Exclusión legal
