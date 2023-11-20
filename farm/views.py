@@ -60,8 +60,6 @@ class EliminarColeccionCultivo(LoginRequiredMixin,  UserPassesTestMixin, DeleteV
         return context
 
 
-
-
 class CrearCultivo(LoginRequiredMixin, CreateView):
     model = Cultivo
     form_class = CultivoForm

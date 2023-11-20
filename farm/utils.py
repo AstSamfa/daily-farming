@@ -9,9 +9,9 @@ def validar(departamento, municipio, vegetal):
     fila_resultante = dataframe.loc[
                           (dataframe['Departamento'] == departamento) & (dataframe['Municipio'] == municipio)].iloc[0:1]
 
-    if not fila_resultante.empty:
+    if vegetal in fila_resultante.columns:
         dato_resultante = fila_resultante[vegetal].iloc[0]
+        return dato_resultante
     else:
+        print(f"Error: La columna '{vegetal}' no se encuentra en el DataFrame.")
         return None
-
-    return dato_resultante
